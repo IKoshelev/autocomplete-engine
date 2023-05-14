@@ -8,40 +8,17 @@ internal class Program
 
     private static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
-        var set = new SortedSet<Ranking>(new ComparerByRank());
+        //Generate_searches_and_letter_combinations();
 
-        var s = "this is text search";
-        var r1 = new Ranking(1, s);
-        var r2 = new Ranking(1, s);
-        var r3 = new Ranking(2, s);
-        var r4 = new Ranking(3, "abc");
-        var r5 = new Ranking(1, "def");
+        var provider = new AutocompleteProvider();
+        provider.UpsertRanking("abcdef", +5);
+        provider.UpsertRanking("abcdefg foobar", +6);
+        provider.UpsertRanking("abcdefgh foobx", +7);
+        provider.UpsertRanking("abcdefg foobar", +4);
 
-
-        set.Add(r4);
-        set.Add(r1);
-        set.Add(r3);
-        set.Add(r2);
-        set.Add(r5);
-
-        var hashSet = new HashSet<Ranking>(new EqualityComparerByText());
-
-        hashSet.Add(r4);
-        hashSet.Add(r1);
-        hashSet.Add(r3);
-        hashSet.Add(r2);
-        hashSet.Add(r5);
-
-        var dict = new Dictionary<string, Ranking>();
-        dict.Add(r1.text, r1);
-        dict.Add(r4.text, r4);
-        dict.Add(r5.text, r5);
-
-        var incoming = dict.GetValueOrDefault(s)!;
-
-        set.Remove(incoming);
-        hashSet.Remove(incoming);
+        var r1 = provider.LookupRanking("abc", 5);
+        var r2 = provider.LookupRanking("abcdefg", 5);
+        var r3 = provider.LookupRanking("abcdefgh", 5);
     }
 
     private static void Generate_searches_and_letter_combinations()
@@ -118,43 +95,6 @@ internal class Program
                 continue;
             }
             return (int)x;
-        }
-    }
-}
-
-public record Ranking(int rank, string text)
-{
-    public override int GetHashCode()
-    {
-        return text.GetHashCode();
-    }
-}
-
-public class EqualityComparerByText : IEqualityComparer<Ranking>
-{
-    public bool Equals(Ranking? x, Ranking? y)
-    {
-        return x.text.Equals(y.text);
-    }
-
-    public int GetHashCode([DisallowNull] Ranking obj)
-    {
-        return obj.text.GetHashCode();
-    }
-}
-
-public class ComparerByRank : IComparer<Ranking>
-{
-    public int Compare(Ranking? x, Ranking? y)
-    {
-        var rankComparison = x.rank - y.rank;
-        if (rankComparison != 0)
-        {
-            return rankComparison;
-        } 
-        else 
-        {
-            return x.text.CompareTo(y.text);
         }
     }
 }
