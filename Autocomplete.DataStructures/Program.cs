@@ -16,9 +16,9 @@ internal class Program
         provider.UpsertRanking("abcdefgh foobx", +7);
         provider.UpsertRanking("abcdefg foobar", +4);
 
-        var r1 = provider.LookupRanking("abc", 5);
-        var r2 = provider.LookupRanking("abcdefg", 5);
-        var r3 = provider.LookupRanking("abcdefgh", 5);
+        var r1 = provider.LookupRanking("abc");
+        var r2 = provider.LookupRanking("abcdefg");
+        var r3 = provider.LookupRanking("abcdefgh");
     }
 
     private static void Generate_searches_and_letter_combinations()

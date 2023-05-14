@@ -17,7 +17,7 @@ public class AutocompleteProvider
     {
         // we rely on the system not sending us searches less than 3 letters and all lowercase
 
-        //TODO make own Trie with Span support and possible optimization for known key length?
+        //TODO make own Trie with Span support and possible optimization for known key length / alphabet?
 
         // benchmark for marshalling showed no improvement over TryGet/insert ???
         // ref SetsContainingRanking? value = 
@@ -42,7 +42,7 @@ public class AutocompleteProvider
         }
     }
 
-    public Ranking[] LookupRanking(string query, int topNToGet)
+    public Ranking[] LookupRanking(string query, int topNToGet = 5)
     {
         // we expect queries no less than 3 letters
         return query.Length switch
