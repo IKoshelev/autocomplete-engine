@@ -17,7 +17,7 @@ internal class Program
     {
         GenerateSearchesAndLetterCombinations();
 
-        var provider = new AutocompleteProvider();
+        var provider = new AutocompleteProvider(isSingleTrieMode: true);
 
         PrepopulateProvider(provider, preloadSearchesCount);
 

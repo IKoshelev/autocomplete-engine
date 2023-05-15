@@ -58,7 +58,10 @@ public class AutocompleteProvider
     {
         if (IsSingleTrieMode)
         {
-            throw new Exception();
+            return Trie3Letter
+                .ValueBy(query.Substring(0, 3))?.Where(x => x.AnyWordStartsWith(query))
+                .Take(topNToGet).ToArray()
+                ?? Array.Empty<Ranking>();
         }
 
         // we expect queries no less than 3 letters
@@ -69,7 +72,6 @@ public class AutocompleteProvider
             5 => Trie5Letter.ValueBy(query)?.Take(topNToGet).ToArray(),
             _ => Trie5Letter.ValueBy(
                     query.Substring(0, 5)
-                // we might want to store words withing ranking upfront?
                 )?.Where(x => x.AnyWordStartsWith(query))
                 .Take(topNToGet).ToArray(),
         } ?? Array.Empty<Ranking>();
