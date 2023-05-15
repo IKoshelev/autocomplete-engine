@@ -10,8 +10,8 @@ internal class Program
     const string autocompleteQueriesFilePath = ".\\generated_autocomplete_queries.txt";
     const string executionLogFile = ".\\execution_log_file.txt";
     const int preloadSearchesCount = 5_000_000;
-    const int searchIncomingBatchSize = 10_000;
-    const int autocompleteQueryIncomingBatchSize = 30_000;
+    const int searchIncomingBatchSize = 30_000;
+    const int autocompleteQueryIncomingBatchSize = 90_000;
 
     private static void Main(string[] args)
     {
@@ -65,14 +65,17 @@ internal class Program
         while (true)
         {
             cycle += 1;
-            var stopWatch = new System.Diagnostics.Stopwatch();
-            stopWatch.Start();
+            var stopWatchUpsert = new System.Diagnostics.Stopwatch();
+            stopWatchUpsert.Start();
             for (int count = 0; count < searchIncomingBatchSize; count++)
             {
                 provider.UpsertRanking(searches.Current, getTypicalRankingDelta());
                 searches.MoveNext();
             }
+            stopWatchUpsert.Stop();
 
+            var stopWatchLookup = new System.Diagnostics.Stopwatch();
+            stopWatchLookup.Start();
             string lastQuery = null;
             Ranking[] lastResult = null;
             for (int count = 0; count < autocompleteQueryIncomingBatchSize; count++)
@@ -81,10 +84,13 @@ internal class Program
                 autocompleteQueries.MoveNext();
                 lastResult = provider.LookupAutocomplete(lastQuery);
             }
-            stopWatch.Stop();
+            stopWatchLookup.Stop();
+            
             var cycleResult = $"""
                                 Completed cycle {cycle}; upsert: {searchIncomingBatchSize}, lookup: {autocompleteQueryIncomingBatchSize}
-                                Cycle took: {stopWatch.Elapsed}
+                                Cycle took: {stopWatchUpsert.Elapsed + stopWatchLookup.Elapsed}
+                                Upsert: {stopWatchUpsert.Elapsed}
+                                Lookup: {stopWatchLookup.Elapsed}
                                 Memory usage: {GetCurrentMemoryUsage()}
                                 Search ranking count: {provider.GetAmountOfRankings()}
                                 Last autocomplete query: {lastQuery}
@@ -93,7 +99,7 @@ internal class Program
                                 """;
 
             logWriter.WriteLine(cycleResult);
-            Console.WriteLine($"Loop compete in {stopWatch.Elapsed}");
+            Console.WriteLine($"Loop compete in {stopWatchUpsert.Elapsed + stopWatchLookup.Elapsed}");
         }
     }
 
