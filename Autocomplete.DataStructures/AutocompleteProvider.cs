@@ -42,7 +42,12 @@ public class AutocompleteProvider
         }
     }
 
-    public Ranking[] LookupRanking(string query, int topNToGet = 5)
+    public int GetAmountOfRankings()
+    {
+        return this.ExistingRankings.Count();
+    }
+
+    public Ranking[] LookupAutocomplete(string query, int topNToGet = 5)
     {
         // we expect queries no less than 3 letters
         return query.Length switch
@@ -55,7 +60,7 @@ public class AutocompleteProvider
                 // we might want to store words withing ranking upfront?
                 )?.Where(x => x.text.Split(' ').Any(word => word.StartsWith(query)))
                 .Take(topNToGet).ToArray(),
-        } ?? new Ranking[0];
+        } ?? Array.Empty<Ranking>();
     }
 
     private RankingMetadata AddNewRanking(

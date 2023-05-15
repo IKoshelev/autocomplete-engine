@@ -1,0 +1,2100 @@
+Completed cycle 1; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3645678
+Memory usage: 1359
+Search ranking count: 838442
+Last autocomplete query: dashe
+Last result: [{"text":"dashers","rank":27705},{"text":"dashers podophyllic","rank":1828},{"text":"dashers nonearning","rank":1582},{"text":"dashers skiings","rank":1534},{"text":"dashers feldsparphyre","rank":1395}]
+
+Completed cycle 2; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3263849
+Memory usage: 1359
+Search ranking count: 839595
+Last autocomplete query: sur
+Last result: [{"text":"surtaxes","rank":10119},{"text":"skiings surtaxes","rank":574},{"text":"podophyllic surtaxes","rank":549},{"text":"nonearning surtaxes","rank":519},{"text":"oral surtaxes","rank":495}]
+
+Completed cycle 3; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3360206
+Memory usage: 1361
+Search ranking count: 840748
+Last autocomplete query: non
+Last result: [{"text":"nonearning","rank":111741},{"text":"nonperceptional","rank":64220},{"text":"nonrepresentationalism","rank":38199},{"text":"nonhabitable","rank":29474},{"text":"nonstimulable","rank":12310}]
+
+Completed cycle 4; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.4179928
+Memory usage: 1362
+Search ranking count: 841911
+Last autocomplete query: felds
+Last result: [{"text":"feldsparphyre","rank":106616},{"text":"feldsparphyre podophyllic","rank":6625},{"text":"feldsparphyre skiings","rank":5888},{"text":"feldsparphyre positivity","rank":5605},{"text":"feldsparphyre nonearning","rank":5550}]
+
+Completed cycle 5; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.4312620
+Memory usage: 1363
+Search ranking count: 843062
+Last autocomplete query: lenap
+Last result: []
+
+Completed cycle 6; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3792410
+Memory usage: 1367
+Search ranking count: 844237
+Last autocomplete query: positi
+Last result: [{"text":"positivity","rank":102697},{"text":"podophyllic positivity","rank":6535},{"text":"positivity skiings","rank":6040},{"text":"nonearning positivity","rank":5752},{"text":"feldsparphyre positivity","rank":5623}]
+
+Completed cycle 7; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3268503
+Memory usage: 1370
+Search ranking count: 845389
+Last autocomplete query: podo
+Last result: [{"text":"podophyllic","rank":125029},{"text":"podophyllic skiings","rank":7423},{"text":"nonearning podophyllic","rank":7098},{"text":"feldsparphyre podophyllic","rank":6675},{"text":"podophyllic positivity","rank":6543}]
+
+Completed cycle 8; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3411236
+Memory usage: 1370
+Search ranking count: 846605
+Last autocomplete query: glo
+Last result: [{"text":"globins","rank":42267},{"text":"globins podophyllic","rank":2495},{"text":"globins skiings","rank":2349},{"text":"globins nonearning","rank":2306},{"text":"feldsparphyre globins","rank":2201}]
+
+Completed cycle 9; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3271760
+Memory usage: 1374
+Search ranking count: 847760
+Last autocomplete query: phys
+Last result: [{"text":"physicals","rank":17202},{"text":"physicals podophyllic","rank":1110},{"text":"physicals skiings","rank":1059},{"text":"feldsparphyre physicals","rank":1052},{"text":"ovenwares physicals","rank":1030}]
+
+Completed cycle 10; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3329135
+Memory usage: 1377
+Search ranking count: 848878
+Last autocomplete query: scy
+Last result: [{"text":"scytheman","rank":34720},{"text":"podophyllic scytheman","rank":2142},{"text":"scytheman skiings","rank":2014},{"text":"nonearning scytheman","rank":1898},{"text":"feldsparphyre scytheman","rank":1846}]
+
+Completed cycle 11; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3491086
+Memory usage: 1378
+Search ranking count: 850033
+Last autocomplete query: bor
+Last result: [{"text":"bordun","rank":3641},{"text":"bornean","rank":2650},{"text":"bordun podophyllic","rank":308},{"text":"bordun nonearning","rank":238},{"text":"bordun positivity","rank":184}]
+
+Completed cycle 12; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3527439
+Memory usage: 1383
+Search ranking count: 851202
+Last autocomplete query: mad
+Last result: [{"text":"madder","rank":6460},{"text":"madder podophyllic","rank":450},{"text":"madder skiings","rank":399},{"text":"madison","rank":384},{"text":"madder nonearning","rank":363}]
+
+Completed cycle 13; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3438680
+Memory usage: 1386
+Search ranking count: 852408
+Last autocomplete query: recolle
+Last result: [{"text":"bouilli nonearning recollectible","rank":2},{"text":"diffractiveness recollectible uppluck","rank":2},{"text":"feldsparphyre recollectiveness","rank":2}]
+
+Completed cycle 14; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3300565
+Memory usage: 1387
+Search ranking count: 853545
+Last autocomplete query: ahk
+Last result: []
+
+Completed cycle 15; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3349301
+Memory usage: 1390
+Search ranking count: 854593
+Last autocomplete query: sub
+Last result: [{"text":"subterraneous","rank":50686},{"text":"podophyllic subterraneous","rank":2999},{"text":"nonearning subterraneous","rank":2758},{"text":"skiings subterraneous","rank":2743},{"text":"positivity subterraneous","rank":2665}]
+
+Completed cycle 16; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3243015
+Memory usage: 1391
+Search ranking count: 855696
+Last autocomplete query: pul
+Last result: [{"text":"pulsejets","rank":54559},{"text":"podophyllic pulsejets","rank":3297},{"text":"pulsejets skiings","rank":2993},{"text":"feldsparphyre pulsejets","rank":2966},{"text":"nonearning pulsejets","rank":2927}]
+
+Completed cycle 17; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3423444
+Memory usage: 1395
+Search ranking count: 856853
+Last autocomplete query: orp
+Last result: [{"text":"blurbs orpin","rank":10}]
+
+Completed cycle 18; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3220278
+Memory usage: 1398
+Search ranking count: 858053
+Last autocomplete query: ski
+Last result: [{"text":"skiings","rank":120788},{"text":"podophyllic skiings","rank":7528},{"text":"nonearning skiings","rank":6881},{"text":"positivity skiings","rank":6180},{"text":"feldsparphyre skiings","rank":6067}]
+
+Completed cycle 19; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3173202
+Memory usage: 1399
+Search ranking count: 859265
+Last autocomplete query: susrev
+Last result: []
+
+Completed cycle 20; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3398165
+Memory usage: 1403
+Search ranking count: 860360
+Last autocomplete query: glo
+Last result: [{"text":"globins","rank":43314},{"text":"globins podophyllic","rank":2538},{"text":"globins skiings","rank":2422},{"text":"globins nonearning","rank":2361},{"text":"feldsparphyre globins","rank":2281}]
+
+Completed cycle 21; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3293418
+Memory usage: 1406
+Search ranking count: 861460
+Last autocomplete query: soff
+Last result: [{"text":"soffritto","rank":7935},{"text":"skiings soffritto","rank":428},{"text":"feldsparphyre soffritto","rank":425},{"text":"oral soffritto","rank":421},{"text":"nonearning soffritto","rank":405}]
+
+Completed cycle 22; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3201262
+Memory usage: 1406
+Search ranking count: 862593
+Last autocomplete query: iniq
+Last result: [{"text":"iniquitousness","rank":7915},{"text":"iniquitousness skiings","rank":532},{"text":"iniquitousness podophyllic","rank":523},{"text":"iniquitousness nonearning","rank":436},{"text":"feldsparphyre iniquitousness","rank":423}]
+
+Completed cycle 23; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3240378
+Memory usage: 1410
+Search ranking count: 863714
+Last autocomplete query: jungle
+Last result: [{"text":"junglewards","rank":88547},{"text":"junglewards podophyllic","rank":5547},{"text":"junglewards skiings","rank":5361},{"text":"junglewards nonearning","rank":4891},{"text":"feldsparphyre junglewards","rank":4607}]
+
+Completed cycle 24; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3398453
+Memory usage: 1413
+Search ranking count: 864860
+Last autocomplete query: dif
+Last result: [{"text":"diffractiveness","rank":85212},{"text":"diffractiveness podophyllic","rank":5008},{"text":"diffractiveness skiings","rank":4742},{"text":"diffractiveness nonearning","rank":4613},{"text":"diffractiveness positivity","rank":4387}]
+
+Completed cycle 25; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3543087
+Memory usage: 1415
+Search ranking count: 866015
+Last autocomplete query: luap
+Last result: []
+
+Completed cycle 26; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3259834
+Memory usage: 1418
+Search ranking count: 867124
+Last autocomplete query: las
+Last result: [{"text":"lasi","rank":20},{"text":"billtong lasi skiings","rank":10},{"text":"couchancy lasts thunar","rank":10},{"text":"diffractiveness lask podophyllic","rank":10},{"text":"dyce lask","rank":10}]
+
+Completed cycle 27; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3312771
+Memory usage: 1419
+Search ranking count: 868231
+Last autocomplete query: mud
+Last result: []
+
+Completed cycle 28; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3416380
+Memory usage: 1423
+Search ranking count: 869386
+Last autocomplete query: non
+Last result: [{"text":"nonearning","rank":117233},{"text":"nonperceptional","rank":67544},{"text":"nonrepresentationalism","rank":39875},{"text":"nonhabitable","rank":30967},{"text":"nonstimulable","rank":13019}]
+
+Completed cycle 29; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3415900
+Memory usage: 1426
+Search ranking count: 870566
+Last autocomplete query: ana
+Last result: [{"text":"anaerobiotic","rank":53473},{"text":"anaerobiotic podophyllic","rank":3429},{"text":"anaerobiotic skiings","rank":3082},{"text":"anaerobiotic nonearning","rank":2930},{"text":"anaerobiotic feldsparphyre","rank":2729}]
+
+Completed cycle 30; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3549221
+Memory usage: 1427
+Search ranking count: 871689
+Last autocomplete query: levigab
+Last result: [{"text":"levigable","rank":1452},{"text":"levigable podophyllic","rank":135},{"text":"levigable positivity","rank":108},{"text":"levigable skiings","rank":92},{"text":"levigable wordably","rank":91}]
+
+Completed cycle 31; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3338686
+Memory usage: 1431
+Search ranking count: 872827
+Last autocomplete query: surtax
+Last result: [{"text":"surtaxes","rank":10687},{"text":"skiings surtaxes","rank":608},{"text":"podophyllic surtaxes","rank":595},{"text":"nonearning surtaxes","rank":561},{"text":"positivity surtaxes","rank":525}]
+
+Completed cycle 32; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3409047
+Memory usage: 1434
+Search ranking count: 873934
+Last autocomplete query: ski
+Last result: [{"text":"skiings","rank":124076},{"text":"podophyllic skiings","rank":7706},{"text":"nonearning skiings","rank":7005},{"text":"positivity skiings","rank":6360},{"text":"feldsparphyre skiings","rank":6213}]
+
+Completed cycle 33; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3386303
+Memory usage: 1434
+Search ranking count: 875041
+Last autocomplete query: seb
+Last result: [{"text":"feldsparphyre podophyllic sebait","rank":10},{"text":"artemisium physicals sebait","rank":3},{"text":"blurbs landscapes sebait","rank":1},{"text":"dashers gaga sebait","rank":1},{"text":"endocardial sebait tenue","rank":1}]
+
+Completed cycle 34; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3350461
+Memory usage: 1437
+Search ranking count: 876156
+Last autocomplete query: aer
+Last result: [{"text":"aerenterectasia","rank":47166},{"text":"aerenterectasia podophyllic","rank":3010},{"text":"aerenterectasia nonearning","rank":2640},{"text":"aerenterectasia skiings","rank":2614},{"text":"aerenterectasia feldsparphyre","rank":2607}]
+
+Completed cycle 35; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3120834
+Memory usage: 1438
+Search ranking count: 877281
+Last autocomplete query: ski
+Last result: [{"text":"skiings","rank":124748},{"text":"podophyllic skiings","rank":7784},{"text":"nonearning skiings","rank":7037},{"text":"positivity skiings","rank":6393},{"text":"feldsparphyre skiings","rank":6251}]
+
+Completed cycle 36; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3290224
+Memory usage: 1443
+Search ranking count: 878362
+Last autocomplete query: puls
+Last result: [{"text":"pulsejets","rank":56821},{"text":"podophyllic pulsejets","rank":3396},{"text":"feldsparphyre pulsejets","rank":3133},{"text":"pulsejets skiings","rank":3098},{"text":"nonearning pulsejets","rank":3002}]
+
+Completed cycle 37; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3411300
+Memory usage: 1446
+Search ranking count: 879511
+Last autocomplete query: ski
+Last result: [{"text":"skiings","rank":125259},{"text":"podophyllic skiings","rank":7798},{"text":"nonearning skiings","rank":7059},{"text":"positivity skiings","rank":6427},{"text":"feldsparphyre skiings","rank":6269}]
+
+Completed cycle 38; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3468915
+Memory usage: 1447
+Search ranking count: 880637
+Last autocomplete query: scy
+Last result: [{"text":"scytheman","rank":36685},{"text":"podophyllic scytheman","rank":2248},{"text":"scytheman skiings","rank":2102},{"text":"nonearning scytheman","rank":2025},{"text":"feldsparphyre scytheman","rank":1938}]
+
+Completed cycle 39; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3407759
+Memory usage: 1451
+Search ranking count: 881749
+Last autocomplete query: ocni
+Last result: []
+
+Completed cycle 40; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3344802
+Memory usage: 1454
+Search ranking count: 882871
+Last autocomplete query: ora
+Last result: [{"text":"oral","rank":105202},{"text":"oral podophyllic","rank":6580},{"text":"oral skiings","rank":6145},{"text":"nonearning oral","rank":5836},{"text":"feldsparphyre oral","rank":5676}]
+
+Completed cycle 41; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3179320
+Memory usage: 1454
+Search ranking count: 883963
+Last autocomplete query: couchan
+Last result: [{"text":"couchancy","rank":39283},{"text":"couchancy podophyllic","rank":2468},{"text":"couchancy skiings","rank":2419},{"text":"couchancy nonearning","rank":2250},{"text":"couchancy feldsparphyre","rank":2104}]
+
+Completed cycle 42; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3430056
+Memory usage: 1457
+Search ranking count: 885079
+Last autocomplete query: rea
+Last result: [{"text":"reactionaryism","rank":2113},{"text":"podophyllic reactionaryism","rank":168},{"text":"feldsparphyre reactionaryism","rank":107},{"text":"nonearning reactionaryism","rank":104},{"text":"reactionaryism skiings","rank":100}]
+
+Completed cycle 43; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3237636
+Memory usage: 1460
+Search ranking count: 886231
+Last autocomplete query: bor
+Last result: [{"text":"bordun","rank":3857},{"text":"bornean","rank":2835},{"text":"bordun podophyllic","rank":324},{"text":"bordun nonearning","rank":245},{"text":"bordun positivity","rank":196}]
+
+Completed cycle 44; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3305231
+Memory usage: 1462
+Search ranking count: 887334
+Last autocomplete query: bit
+Last result: [{"text":"bitartrate","rank":27306},{"text":"bitartrate skiings","rank":1686},{"text":"bitartrate nonearning","rank":1625},{"text":"bitartrate podophyllic","rank":1622},{"text":"bitartrate positivity","rank":1604}]
+
+Completed cycle 45; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3446230
+Memory usage: 1466
+Search ranking count: 888476
+Last autocomplete query: ten
+Last result: [{"text":"tenue","rank":42520},{"text":"podophyllic tenue","rank":2524},{"text":"skiings tenue","rank":2509},{"text":"feldsparphyre tenue","rank":2368},{"text":"nonearning tenue","rank":2284}]
+
+Completed cycle 46; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3296713
+Memory usage: 1467
+Search ranking count: 889583
+Last autocomplete query: hsog
+Last result: []
+
+Completed cycle 47; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3458281
+Memory usage: 1470
+Search ranking count: 890701
+Last autocomplete query: interb
+Last result: [{"text":"interblended","rank":38421},{"text":"interblended podophyllic","rank":2511},{"text":"interblended skiings","rank":2445},{"text":"interblended nonearning","rank":2061},{"text":"interblended positivity","rank":2009}]
+
+Completed cycle 48; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3367829
+Memory usage: 1473
+Search ranking count: 891820
+Last autocomplete query: cari
+Last result: [{"text":"cariama","rank":28552},{"text":"cariama podophyllic","rank":1820},{"text":"cariama skiings","rank":1714},{"text":"cariama feldsparphyre","rank":1572},{"text":"cariama nonearning","rank":1521}]
+
+Completed cycle 49; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3390590
+Memory usage: 1474
+Search ranking count: 892981
+Last autocomplete query: pod
+Last result: [{"text":"podophyllic","rank":135280},{"text":"podophyllic skiings","rank":7908},{"text":"nonearning podophyllic","rank":7779},{"text":"feldsparphyre podophyllic","rank":7219},{"text":"podophyllic positivity","rank":7066}]
+
+Completed cycle 50; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3199508
+Memory usage: 1479
+Search ranking count: 894056
+Last autocomplete query: unseren
+Last result: [{"text":"unserene","rank":52709},{"text":"podophyllic unserene","rank":3025},{"text":"nonearning unserene","rank":2939},{"text":"skiings unserene","rank":2866},{"text":"feldsparphyre unserene","rank":2812}]
+
+Completed cycle 51; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3521518
+Memory usage: 1482
+Search ranking count: 895176
+Last autocomplete query: non
+Last result: [{"text":"nonearning","rank":122519},{"text":"nonperceptional","rank":70566},{"text":"nonrepresentationalism","rank":41600},{"text":"nonhabitable","rank":32278},{"text":"nonstimulable","rank":13606}]
+
+Completed cycle 52; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3246839
+Memory usage: 1482
+Search ranking count: 896298
+Last autocomplete query: cuoc
+Last result: []
+
+Completed cycle 53; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3384356
+Memory usage: 1486
+Search ranking count: 897433
+Last autocomplete query: ebed
+Last result: []
+
+Completed cycle 54; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3245207
+Memory usage: 1489
+Search ranking count: 898512
+Last autocomplete query: eperu
+Last result: [{"text":"eperua","rank":2907},{"text":"eperua podophyllic","rank":188},{"text":"eperua nonearning","rank":187},{"text":"eperua oral","rank":169},{"text":"eperua feldsparphyre","rank":167}]
+
+Completed cycle 55; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3280055
+Memory usage: 1491
+Search ranking count: 899594
+Last autocomplete query: rtsa
+Last result: []
+
+Completed cycle 56; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3688750
+Memory usage: 1494
+Search ranking count: 900735
+Last autocomplete query: cum
+Last result: [{"text":"cumenyl","rank":23024},{"text":"cumaceous","rank":5732},{"text":"cumenyl podophyllic","rank":1401},{"text":"cumenyl nonearning","rank":1340},{"text":"cumenyl positivity","rank":1323}]
+
+Completed cycle 57; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3240139
+Memory usage: 1494
+Search ranking count: 901889
+Last autocomplete query: all
+Last result: [{"text":"alleging","rank":2860},{"text":"alloxanic","rank":533},{"text":"allots","rank":223},{"text":"alleging nonearning","rank":221},{"text":"alleging positivity","rank":212}]
+
+Completed cycle 58; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3399241
+Memory usage: 1498
+Search ranking count: 903024
+Last autocomplete query: cor
+Last result: [{"text":"corynocarpaceae","rank":19164},{"text":"corynocarpaceae skiings","rank":1187},{"text":"corynocarpaceae podophyllic","rank":1135},{"text":"corynocarpaceae nonearning","rank":1093},{"text":"corynocarpaceae positivity","rank":1067}]
+
+Completed cycle 59; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3501928
+Memory usage: 1501
+Search ranking count: 904114
+Last autocomplete query: ovenw
+Last result: [{"text":"ovenwares","rank":103222},{"text":"ovenwares podophyllic","rank":6238},{"text":"ovenwares skiings","rank":5943},{"text":"nonearning ovenwares","rank":5645},{"text":"feldsparphyre ovenwares","rank":5357}]
+
+Completed cycle 60; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3270839
+Memory usage: 1503
+Search ranking count: 905240
+Last autocomplete query: endo
+Last result: [{"text":"endocardial","rank":86163},{"text":"endocardial podophyllic","rank":5314},{"text":"endocardial skiings","rank":5080},{"text":"endocardial nonearning","rank":4910},{"text":"endocardial feldsparphyre","rank":4464}]
+
+Completed cycle 61; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3289351
+Memory usage: 1507
+Search ranking count: 906345
+Last autocomplete query: ext
+Last result: [{"text":"extravasating","rank":20199},{"text":"extraterrestrial","rank":6783},{"text":"extravasating podophyllic","rank":1290},{"text":"extravasating skiings","rank":1269},{"text":"extravasating nonearning","rank":1103}]
+
+Completed cycle 62; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3284188
+Memory usage: 1510
+Search ranking count: 907457
+Last autocomplete query: tni
+Last result: []
+
+Completed cycle 63; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3311051
+Memory usage: 1510
+Search ranking count: 908515
+Last autocomplete query: mou
+Last result: [{"text":"mouthwatering","rank":9807},{"text":"mouthwatering podophyllic","rank":581},{"text":"mouthwatering skiings","rank":554},{"text":"mouthwatering nonearning","rank":530},{"text":"mouthwatering positivity","rank":524}]
+
+Completed cycle 64; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3414019
+Memory usage: 1514
+Search ranking count: 909527
+Last autocomplete query: neph
+Last result: [{"text":"nephrostomy","rank":138},{"text":"nephrostomy positivity","rank":27},{"text":"aerenterectasia nephrostomy","rank":24},{"text":"idol nephrostomy","rank":22},{"text":"billtong nephrostomy","rank":16}]
+
+Completed cycle 65; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3453065
+Memory usage: 1517
+Search ranking count: 910612
+Last autocomplete query: bitart
+Last result: [{"text":"bitartrate","rank":28377},{"text":"bitartrate skiings","rank":1741},{"text":"bitartrate podophyllic","rank":1702},{"text":"bitartrate nonearning","rank":1695},{"text":"bitartrate positivity","rank":1648}]
+
+Completed cycle 66; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3261011
+Memory usage: 1519
+Search ranking count: 911678
+Last autocomplete query: depre
+Last result: [{"text":"deprecated","rank":31},{"text":"depressingness","rank":29},{"text":"astrapophobia cardiolith deprecate","rank":10},{"text":"billtong deprecated pulsejets","rank":10},{"text":"blurbs depressingness","rank":10}]
+
+Completed cycle 67; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3405737
+Memory usage: 1522
+Search ranking count: 912757
+Last autocomplete query: car
+Last result: [{"text":"cariama","rank":29638},{"text":"cardiolith","rank":24386},{"text":"carnalism","rank":9645},{"text":"cariama podophyllic","rank":1908},{"text":"cariama skiings","rank":1772}]
+
+Completed cycle 68; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3441261
+Memory usage: 1523
+Search ranking count: 913867
+Last autocomplete query: snu
+Last result: [{"text":"snupper","rank":46},{"text":"nonearning snupper","rank":15},{"text":"artemisium manners snupper","rank":10},{"text":"astrapophobia podophyllic snupper","rank":10},{"text":"endocardial snaillike snupper","rank":10}]
+
+Completed cycle 69; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3386456
+Memory usage: 1527
+Search ranking count: 914951
+Last autocomplete query: lan
+Last result: [{"text":"landscapes","rank":100686},{"text":"landscapes podophyllic","rank":6161},{"text":"landscapes skiings","rank":6110},{"text":"landscapes nonearning","rank":5790},{"text":"landscapes positivity","rank":5280}]
+
+Completed cycle 70; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3195917
+Memory usage: 1530
+Search ranking count: 916066
+Last autocomplete query: panel
+Last result: [{"text":"panellation","rank":26001},{"text":"panellation podophyllic","rank":1676},{"text":"panellation skiings","rank":1541},{"text":"nonearning panellation","rank":1284},{"text":"feldsparphyre panellation","rank":1255}]
+
+Completed cycle 71; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3435241
+Memory usage: 1531
+Search ranking count: 917163
+Last autocomplete query: cepha
+Last result: [{"text":"cephalonasal","rank":18357},{"text":"cephalonasal podophyllic","rank":1048},{"text":"cephalonasal feldsparphyre","rank":1030},{"text":"cephalonasal skiings","rank":1022},{"text":"cephalonasal nonearning","rank":931}]
+
+Completed cycle 72; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3270499
+Memory usage: 1535
+Search ranking count: 918230
+Last autocomplete query: hye
+Last result: [{"text":"hyetography","rank":30604},{"text":"hyetography podophyllic","rank":1994},{"text":"hyetography skiings","rank":1835},{"text":"feldsparphyre hyetography","rank":1743},{"text":"hyetography nonearning","rank":1724}]
+
+Completed cycle 73; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3264078
+Memory usage: 1538
+Search ranking count: 919311
+Last autocomplete query: beriban
+Last result: [{"text":"beribanded","rank":34659},{"text":"beribanded skiings","rank":2103},{"text":"beribanded podophyllic","rank":2004},{"text":"beribanded feldsparphyre","rank":1943},{"text":"beribanded nonearning","rank":1929}]
+
+Completed cycle 74; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3665548
+Memory usage: 1539
+Search ranking count: 920391
+Last autocomplete query: vol
+Last result: [{"text":"volumescope","rank":12783},{"text":"podophyllic volumescope","rank":858},{"text":"nonearning volumescope","rank":694},{"text":"skiings volumescope","rank":693},{"text":"feldsparphyre volumescope","rank":658}]
+
+Completed cycle 75; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3469921
+Memory usage: 1542
+Search ranking count: 921463
+Last autocomplete query: row
+Last result: []
+
+Completed cycle 76; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3408092
+Memory usage: 1542
+Search ranking count: 922521
+Last autocomplete query: pal
+Last result: [{"text":"palaeonemertea","rank":6274},{"text":"palamae","rank":817},{"text":"palatization","rank":593},{"text":"feldsparphyre palaeonemertea","rank":376},{"text":"palaeonemertea podophyllic","rank":371}]
+
+Completed cycle 77; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3410151
+Memory usage: 1546
+Search ranking count: 923675
+Last autocomplete query: astr
+Last result: [{"text":"astrapophobia","rank":70399},{"text":"astrapophobia skiings","rank":4228},{"text":"astrapophobia podophyllic","rank":4169},{"text":"astrapophobia nonearning","rank":4107},{"text":"astrapophobia feldsparphyre","rank":3613}]
+
+Completed cycle 78; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3625995
+Memory usage: 1550
+Search ranking count: 924758
+Last autocomplete query: arte
+Last result: [{"text":"artemisium","rank":46772},{"text":"artemisium podophyllic","rank":2683},{"text":"artemisium skiings","rank":2583},{"text":"artemisium oral","rank":2501},{"text":"artemisium positivity","rank":2456}]
+
+Completed cycle 79; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3475862
+Memory usage: 1551
+Search ranking count: 925854
+Last autocomplete query: couc
+Last result: [{"text":"couchancy","rank":42155},{"text":"couchancy podophyllic","rank":2641},{"text":"couchancy skiings","rank":2563},{"text":"couchancy nonearning","rank":2450},{"text":"couchancy feldsparphyre","rank":2264}]
+
+Completed cycle 80; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3612948
+Memory usage: 1554
+Search ranking count: 926950
+Last autocomplete query: hub
+Last result: [{"text":"hub","rank":1488},{"text":"hub nonearning","rank":95},{"text":"hub tyrolite","rank":87},{"text":"hub skiings","rank":84},{"text":"hub junglewards","rank":71}]
+
+Completed cycle 81; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3826375
+Memory usage: 1557
+Search ranking count: 928035
+Last autocomplete query: khal
+Last result: [{"text":"khalsa","rank":38648},{"text":"khalsa nonearning","rank":2268},{"text":"khalsa podophyllic","rank":2253},{"text":"khalsa skiings","rank":2148},{"text":"feldsparphyre khalsa","rank":2054}]
+
+Completed cycle 82; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3808135
+Memory usage: 1558
+Search ranking count: 929076
+Last autocomplete query: irp
+Last result: []
+
+Completed cycle 83; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3606182
+Memory usage: 1563
+Search ranking count: 930172
+Last autocomplete query: flood
+Last result: [{"text":"floods","rank":68057},{"text":"floods podophyllic","rank":4322},{"text":"floods skiings","rank":3967},{"text":"floods nonearning","rank":3728},{"text":"feldsparphyre floods","rank":3637}]
+
+Completed cycle 84; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3356971
+Memory usage: 1566
+Search ranking count: 931278
+Last autocomplete query: nonea
+Last result: [{"text":"nonearning","rank":130026},{"text":"nonearning podophyllic","rank":8265},{"text":"nonearning skiings","rank":7688},{"text":"nonearning positivity","rank":6621},{"text":"feldsparphyre nonearning","rank":6489}]
+
+Completed cycle 85; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3465692
+Memory usage: 1567
+Search ranking count: 932331
+Last autocomplete query: rig
+Last result: [{"text":"rightish","rank":5435},{"text":"podophyllic rightish","rank":322},{"text":"rightish skiings","rank":314},{"text":"feldsparphyre rightish","rank":295},{"text":"positivity rightish","rank":269}]
+
+Completed cycle 86; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3798311
+Memory usage: 1570
+Search ranking count: 933432
+Last autocomplete query: pla
+Last result: [{"text":"plagiarist","rank":3899},{"text":"plainclothesman","rank":2251},{"text":"plagiarist podophyllic","rank":251},{"text":"junglewards plagiarist","rank":237},{"text":"feldsparphyre plagiarist","rank":233}]
+
+Completed cycle 87; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.4016340
+Memory usage: 1571
+Search ranking count: 934529
+Last autocomplete query: vers
+Last result: [{"text":"versus","rank":66809},{"text":"podophyllic versus","rank":4091},{"text":"skiings versus","rank":3794},{"text":"feldsparphyre versus","rank":3582},{"text":"nonearning versus","rank":3578}]
+
+Completed cycle 88; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3818541
+Memory usage: 1575
+Search ranking count: 935595
+Last autocomplete query: uob
+Last result: []
+
+Completed cycle 89; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3469408
+Memory usage: 1578
+Search ranking count: 936690
+Last autocomplete query: sop
+Last result: [{"text":"sope","rank":21},{"text":"sopiting","rank":16},{"text":"feldsparphyre sope","rank":12},{"text":"astrapophobia eperua sope","rank":10},{"text":"billtong sope vives","rank":10}]
+
+Completed cycle 90; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3378358
+Memory usage: 1579
+Search ranking count: 937729
+Last autocomplete query: subt
+Last result: [{"text":"subterraneous","rank":57920},{"text":"podophyllic subterraneous","rank":3419},{"text":"nonearning subterraneous","rank":3183},{"text":"skiings subterraneous","rank":3172},{"text":"positivity subterraneous","rank":2983}]
+
+Completed cycle 91; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3428334
+Memory usage: 1583
+Search ranking count: 938796
+Last autocomplete query: esnu
+Last result: []
+
+Completed cycle 92; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3370125
+Memory usage: 1586
+Search ranking count: 939882
+Last autocomplete query: aske
+Last result: [{"text":"askew","rank":1584},{"text":"askew feldsparphyre","rank":103},{"text":"askew landscapes","rank":97},{"text":"askew oral","rank":85},{"text":"askew podophyllic","rank":84}]
+
+Completed cycle 93; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.5327033
+Memory usage: 1586
+Search ranking count: 940985
+Last autocomplete query: feldsp
+Last result: [{"text":"feldsparphyre","rank":125231},{"text":"feldsparphyre podophyllic","rank":7761},{"text":"feldsparphyre skiings","rank":6882},{"text":"feldsparphyre nonearning","rank":6603},{"text":"feldsparphyre positivity","rank":6502}]
+
+Completed cycle 94; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.4915519
+Memory usage: 1589
+Search ranking count: 942129
+Last autocomplete query: hye
+Last result: [{"text":"hyetography","rank":31869},{"text":"hyetography podophyllic","rank":2046},{"text":"hyetography skiings","rank":1886},{"text":"feldsparphyre hyetography","rank":1791},{"text":"hyetography nonearning","rank":1763}]
+
+Completed cycle 95; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3911548
+Memory usage: 1590
+Search ranking count: 943208
+Last autocomplete query: jun
+Last result: [{"text":"junglewards","rank":100863},{"text":"junglewards podophyllic","rank":6282},{"text":"junglewards skiings","rank":6115},{"text":"junglewards nonearning","rank":5531},{"text":"feldsparphyre junglewards","rank":5267}]
+
+Completed cycle 96; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3544574
+Memory usage: 1595
+Search ranking count: 944292
+Last autocomplete query: fel
+Last result: [{"text":"feldsparphyre","rank":125887},{"text":"feldsparphyre podophyllic","rank":7790},{"text":"feldsparphyre skiings","rank":6952},{"text":"feldsparphyre nonearning","rank":6649},{"text":"feldsparphyre positivity","rank":6529}]
+
+Completed cycle 97; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3824200
+Memory usage: 1598
+Search ranking count: 945389
+Last autocomplete query: bas
+Last result: [{"text":"bastillion","rank":1960},{"text":"bastillion nonearning","rank":175},{"text":"bastillion ovenwares","rank":137},{"text":"bastillion positivity","rank":123},{"text":"bastillion diffractiveness","rank":121}]
+
+Completed cycle 98; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.4169332
+Memory usage: 1599
+Search ranking count: 946484
+Last autocomplete query: com
+Last result: [{"text":"companioning","rank":29104},{"text":"complexively","rank":4069},{"text":"companioning nonearning","rank":1812},{"text":"companioning podophyllic","rank":1783},{"text":"companioning skiings","rank":1671}]
+
+Completed cycle 99; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3930252
+Memory usage: 1603
+Search ranking count: 947529
+Last autocomplete query: inv
+Last result: [{"text":"invertant","rank":7429},{"text":"invertant podophyllic","rank":479},{"text":"invertant nonearning","rank":454},{"text":"invertant skiings","rank":421},{"text":"invertant positivity","rank":418}]
+
+Completed cycle 100; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3535323
+Memory usage: 1606
+Search ranking count: 948579
+Last autocomplete query: billt
+Last result: [{"text":"billtong","rank":82505},{"text":"billtong podophyllic","rank":5049},{"text":"billtong skiings","rank":5033},{"text":"billtong nonearning","rank":4466},{"text":"billtong feldsparphyre","rank":4349}]
+
+Completed cycle 101; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3429286
+Memory usage: 1607
+Search ranking count: 949647
+Last autocomplete query: prog
+Last result: [{"text":"proggers","rank":6316},{"text":"proggers skiings","rank":450},{"text":"podophyllic proggers","rank":440},{"text":"feldsparphyre proggers","rank":360},{"text":"diffractiveness proggers","rank":325}]
+
+Completed cycle 102; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3401994
+Memory usage: 1611
+Search ranking count: 950716
+Last autocomplete query: pod
+Last result: [{"text":"podophyllic","rank":147923},{"text":"podophyllic skiings","rank":8726},{"text":"nonearning podophyllic","rank":8533},{"text":"feldsparphyre podophyllic","rank":7862},{"text":"podophyllic positivity","rank":7708}]
+
+Completed cycle 103; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3448887
+Memory usage: 1614
+Search ranking count: 951759
+Last autocomplete query: ree
+Last result: [{"text":"reedings","rank":9401},{"text":"nonearning reedings","rank":541},{"text":"feldsparphyre reedings","rank":520},{"text":"reedings skiings","rank":498},{"text":"podophyllic reedings","rank":488}]
+
+Completed cycle 104; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3445531
+Memory usage: 1615
+Search ranking count: 952872
+Last autocomplete query: row
+Last result: []
+
+Completed cycle 105; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3378319
+Memory usage: 1618
+Search ranking count: 953947
+Last autocomplete query: podo
+Last result: [{"text":"podophyllic","rank":148691},{"text":"podophyllic skiings","rank":8774},{"text":"nonearning podophyllic","rank":8573},{"text":"feldsparphyre podophyllic","rank":7918},{"text":"podophyllic positivity","rank":7757}]
+
+Completed cycle 106; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3434852
+Memory usage: 1618
+Search ranking count: 955037
+Last autocomplete query: lands
+Last result: [{"text":"landscapes","rank":107071},{"text":"landscapes podophyllic","rank":6600},{"text":"landscapes skiings","rank":6486},{"text":"landscapes nonearning","rank":6180},{"text":"landscapes positivity","rank":5649}]
+
+Completed cycle 107; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3371601
+Memory usage: 1621
+Search ranking count: 956126
+Last autocomplete query: mann
+Last result: [{"text":"manners","rank":22691},{"text":"manners podophyllic","rank":1340},{"text":"manners skiings","rank":1218},{"text":"manners positivity","rank":1193},{"text":"manners nonearning","rank":1162}]
+
+Completed cycle 108; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3903379
+Memory usage: 1624
+Search ranking count: 957231
+Last autocomplete query: cou
+Last result: [{"text":"couchancy","rank":44270},{"text":"councillary","rank":25493},{"text":"couchancy podophyllic","rank":2750},{"text":"couchancy skiings","rank":2679},{"text":"couchancy nonearning","rank":2591}]
+
+Completed cycle 109; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.4016276
+Memory usage: 1626
+Search ranking count: 958358
+Last autocomplete query: astrap
+Last result: [{"text":"astrapophobia","rank":74337},{"text":"astrapophobia skiings","rank":4479},{"text":"astrapophobia nonearning","rank":4370},{"text":"astrapophobia podophyllic","rank":4363},{"text":"astrapophobia feldsparphyre","rank":3779}]
+
+Completed cycle 110; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3351154
+Memory usage: 1631
+Search ranking count: 959429
+Last autocomplete query: mal
+Last result: [{"text":"malapertness","rank":406},{"text":"malacophonous","rank":248},{"text":"malapertness skiings","rank":44},{"text":"junglewards malapertness","rank":40},{"text":"anaerobiotic malapertness","rank":31}]
+
+Completed cycle 111; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3580445
+Memory usage: 1634
+Search ranking count: 960493
+Last autocomplete query: inv
+Last result: [{"text":"invertant","rank":7563},{"text":"invertant podophyllic","rank":482},{"text":"invertant nonearning","rank":473},{"text":"invertant positivity","rank":432},{"text":"invertant skiings","rank":426}]
+
+Completed cycle 112; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3205312
+Memory usage: 1635
+Search ranking count: 961584
+Last autocomplete query: oral
+Last result: [{"text":"oral","rank":118999},{"text":"oral podophyllic","rank":7427},{"text":"oral skiings","rank":6975},{"text":"nonearning oral","rank":6586},{"text":"feldsparphyre oral","rank":6400}]
+
+Completed cycle 113; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3370938
+Memory usage: 1638
+Search ranking count: 962650
+Last autocomplete query: pod
+Last result: [{"text":"podophyllic","rank":150662},{"text":"podophyllic skiings","rank":8891},{"text":"nonearning podophyllic","rank":8707},{"text":"feldsparphyre podophyllic","rank":7995},{"text":"podophyllic positivity","rank":7863}]
+
+Completed cycle 114; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3574675
+Memory usage: 1639
+Search ranking count: 963721
+Last autocomplete query: thun
+Last result: [{"text":"thunar","rank":87495},{"text":"podophyllic thunar","rank":5446},{"text":"skiings thunar","rank":5258},{"text":"positivity thunar","rank":4641},{"text":"nonearning thunar","rank":4577}]
+
+Completed cycle 115; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.4078081
+Memory usage: 1643
+Search ranking count: 964768
+Last autocomplete query: car
+Last result: [{"text":"cariama","rank":32171},{"text":"cardiolith","rank":26536},{"text":"carnalism","rank":10362},{"text":"cariama podophyllic","rank":2070},{"text":"cariama skiings","rank":1943}]
+
+Completed cycle 116; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3836699
+Memory usage: 1646
+Search ranking count: 965838
+Last autocomplete query: ant
+Last result: [{"text":"antagonization","rank":3599},{"text":"antipruritic","rank":1737},{"text":"anthropomorphisms","rank":673},{"text":"antithrombic","rank":571},{"text":"anteflexed","rank":561}]
+
+Completed cycle 117; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3943003
+Memory usage: 1646
+Search ranking count: 966920
+Last autocomplete query: ali
+Last result: [{"text":"alice","rank":1453},{"text":"alice podophyllic","rank":103},{"text":"alice diffractiveness","rank":96},{"text":"alice oral","rank":91},{"text":"alice positivity","rank":82}]
+
+Completed cycle 118; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3568292
+Memory usage: 1650
+Search ranking count: 967994
+Last autocomplete query: com
+Last result: [{"text":"companioning","rank":30046},{"text":"complexively","rank":4200},{"text":"companioning nonearning","rank":1854},{"text":"companioning podophyllic","rank":1834},{"text":"companioning skiings","rank":1736}]
+
+Completed cycle 119; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3471043
+Memory usage: 1654
+Search ranking count: 969038
+Last autocomplete query: scyt
+Last result: [{"text":"scytheman","rank":42139},{"text":"podophyllic scytheman","rank":2565},{"text":"scytheman skiings","rank":2449},{"text":"nonearning scytheman","rank":2341},{"text":"feldsparphyre scytheman","rank":2312}]
+
+Completed cycle 120; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3404524
+Memory usage: 1654
+Search ranking count: 970066
+Last autocomplete query: vaag
+Last result: [{"text":"vaagmer","rank":17830},{"text":"podophyllic vaagmer","rank":1098},{"text":"skiings vaagmer","rank":1096},{"text":"nonearning vaagmer","rank":1063},{"text":"feldsparphyre vaagmer","rank":993}]
+
+Completed cycle 121; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3508984
+Memory usage: 1657
+Search ranking count: 971180
+Last autocomplete query: ido
+Last result: [{"text":"idol","rank":68444},{"text":"idol podophyllic","rank":4288},{"text":"idol skiings","rank":4189},{"text":"feldsparphyre idol","rank":3593},{"text":"idol nonearning","rank":3452}]
+
+Completed cycle 122; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3419946
+Memory usage: 1661
+Search ranking count: 972247
+Last autocomplete query: aeren
+Last result: [{"text":"aerenterectasia","rank":55003},{"text":"aerenterectasia podophyllic","rank":3540},{"text":"aerenterectasia feldsparphyre","rank":3101},{"text":"aerenterectasia skiings","rank":3084},{"text":"aerenterectasia nonearning","rank":3061}]
+
+Completed cycle 123; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3457971
+Memory usage: 1663
+Search ranking count: 973321
+Last autocomplete query: ber
+Last result: [{"text":"beribanded","rank":37651},{"text":"bergamot","rank":2604},{"text":"beribanded skiings","rank":2285},{"text":"beribanded podophyllic","rank":2183},{"text":"beribanded feldsparphyre","rank":2088}]
+
+Completed cycle 124; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3242589
+Memory usage: 1666
+Search ranking count: 974351
+Last autocomplete query: retbus
+Last result: []
+
+Completed cycle 125; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3440567
+Memory usage: 1667
+Search ranking count: 975377
+Last autocomplete query: idol
+Last result: [{"text":"idol","rank":68839},{"text":"idol podophyllic","rank":4333},{"text":"idol skiings","rank":4199},{"text":"feldsparphyre idol","rank":3625},{"text":"idol nonearning","rank":3474}]
+
+Completed cycle 126; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3427750
+Memory usage: 1671
+Search ranking count: 976454
+Last autocomplete query: etnerea
+Last result: []
+
+Completed cycle 127; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3411604
+Memory usage: 1674
+Search ranking count: 977488
+Last autocomplete query: dif
+Last result: [{"text":"diffractiveness","rank":101712},{"text":"diffractiveness podophyllic","rank":6124},{"text":"diffractiveness nonearning","rank":5819},{"text":"diffractiveness skiings","rank":5791},{"text":"diffractiveness feldsparphyre","rank":5203}]
+
+Completed cycle 128; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3557747
+Memory usage: 1675
+Search ranking count: 978584
+Last autocomplete query: non
+Last result: [{"text":"nonearning","rank":140284},{"text":"nonperceptional","rank":80044},{"text":"nonrepresentationalism","rank":47517},{"text":"nonhabitable","rank":36722},{"text":"nonstimulable","rank":15397}]
+
+Completed cycle 129; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3324443
+Memory usage: 1678
+Search ranking count: 979657
+Last autocomplete query: wor
+Last result: [{"text":"wordably","rank":94221},{"text":"podophyllic wordably","rank":5829},{"text":"skiings wordably","rank":5329},{"text":"nonearning wordably","rank":5064},{"text":"feldsparphyre wordably","rank":4936}]
+
+Completed cycle 130; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3248922
+Memory usage: 1681
+Search ranking count: 980628
+Last autocomplete query: pus
+Last result: [{"text":"bronzitite noncongealing pushpins","rank":10},{"text":"couchancy pushpins skiings","rank":10},{"text":"prefectorial pushpins substitutabilities","rank":10},{"text":"pushpins","rank":7},{"text":"acetylize manteaus pushpins","rank":3}]
+
+Completed cycle 131; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3351910
+Memory usage: 1682
+Search ranking count: 981691
+Last autocomplete query: lib
+Last result: [{"text":"libris","rank":26},{"text":"liberty podophyllic","rank":16},{"text":"liberty","rank":15},{"text":"junglewards liberty","rank":12},{"text":"astrapophobia giddily liberty","rank":10}]
+
+Completed cycle 132; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3412252
+Memory usage: 1686
+Search ranking count: 982737
+Last autocomplete query: pos
+Last result: [{"text":"positivity","rank":128312},{"text":"podophyllic positivity","rank":8142},{"text":"positivity skiings","rank":7430},{"text":"nonearning positivity","rank":7223},{"text":"feldsparphyre positivity","rank":6919}]
+
+Completed cycle 133; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3536154
+Memory usage: 1687
+Search ranking count: 983829
+Last autocomplete query: thun
+Last result: [{"text":"thunar","rank":90313},{"text":"podophyllic thunar","rank":5552},{"text":"skiings thunar","rank":5399},{"text":"positivity thunar","rank":4748},{"text":"nonearning thunar","rank":4723}]
+
+Completed cycle 134; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3525341
+Memory usage: 1690
+Search ranking count: 984915
+Last autocomplete query: dyc
+Last result: [{"text":"dyce","rank":58006},{"text":"dyce podophyllic","rank":3739},{"text":"dyce skiings","rank":3575},{"text":"dyce nonearning","rank":3104},{"text":"dyce positivity","rank":3033}]
+
+Completed cycle 135; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3555037
+Memory usage: 1693
+Search ranking count: 986016
+Last autocomplete query: end
+Last result: [{"text":"endocardial","rank":98016},{"text":"endocardial podophyllic","rank":6022},{"text":"endocardial skiings","rank":5797},{"text":"endocardial nonearning","rank":5442},{"text":"endocardial feldsparphyre","rank":5035}]
+
+Completed cycle 136; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3495390
+Memory usage: 1694
+Search ranking count: 987027
+Last autocomplete query: ath
+Last result: [{"text":"athanasian","rank":29754},{"text":"athanasian podophyllic","rank":1847},{"text":"athanasian skiings","rank":1682},{"text":"athanasian nonearning","rank":1596},{"text":"athanasian feldsparphyre","rank":1528}]
+
+Completed cycle 137; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3454633
+Memory usage: 1698
+Search ranking count: 988027
+Last autocomplete query: bil
+Last result: [{"text":"billtong","rank":87597},{"text":"billtong podophyllic","rank":5371},{"text":"billtong skiings","rank":5318},{"text":"billtong nonearning","rank":4759},{"text":"billtong feldsparphyre","rank":4603}]
+
+Completed cycle 138; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3279099
+Memory usage: 1701
+Search ranking count: 989089
+Last autocomplete query: ycs
+Last result: []
+
+Completed cycle 139; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3200039
+Memory usage: 1702
+Search ranking count: 990146
+Last autocomplete query: end
+Last result: [{"text":"endocardial","rank":98663},{"text":"endocardial podophyllic","rank":6056},{"text":"endocardial skiings","rank":5838},{"text":"endocardial nonearning","rank":5489},{"text":"endocardial feldsparphyre","rank":5078}]
+
+Completed cycle 140; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3502856
+Memory usage: 1708
+Search ranking count: 991213
+Last autocomplete query: thuna
+Last result: [{"text":"thunar","rank":91341},{"text":"podophyllic thunar","rank":5631},{"text":"skiings thunar","rank":5469},{"text":"positivity thunar","rank":4808},{"text":"nonearning thunar","rank":4752}]
+
+Completed cycle 141; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3463811
+Memory usage: 1711
+Search ranking count: 992245
+Last autocomplete query: bit
+Last result: [{"text":"bitartrate","rank":32221},{"text":"bitartrate skiings","rank":1958},{"text":"bitartrate podophyllic","rank":1924},{"text":"bitartrate nonearning","rank":1892},{"text":"bitartrate positivity","rank":1828}]
+
+Completed cycle 142; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3267434
+Memory usage: 1712
+Search ranking count: 993303
+Last autocomplete query: iiks
+Last result: []
+
+Completed cycle 143; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3440575
+Memory usage: 1715
+Search ranking count: 994419
+Last autocomplete query: ber
+Last result: [{"text":"beribanded","rank":38940},{"text":"bergamot","rank":2694},{"text":"beribanded skiings","rank":2419},{"text":"beribanded podophyllic","rank":2252},{"text":"beribanded feldsparphyre","rank":2147}]
+
+Completed cycle 144; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3375285
+Memory usage: 1716
+Search ranking count: 995425
+Last autocomplete query: den
+Last result: [{"text":"denunciate","rank":1889},{"text":"denticate","rank":191},{"text":"denunciate skiings","rank":127},{"text":"denunciate ovenwares","rank":118},{"text":"denunciate positivity","rank":97}]
+
+Completed cycle 145; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3370971
+Memory usage: 1720
+Search ranking count: 996450
+Last autocomplete query: oven
+Last result: [{"text":"ovenwares","rank":118579},{"text":"ovenwares podophyllic","rank":7372},{"text":"ovenwares skiings","rank":7107},{"text":"nonearning ovenwares","rank":6597},{"text":"feldsparphyre ovenwares","rank":6193}]
+
+Completed cycle 146; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3325658
+Memory usage: 1723
+Search ranking count: 997500
+Last autocomplete query: cou
+Last result: [{"text":"couchancy","rank":47108},{"text":"councillary","rank":27116},{"text":"couchancy podophyllic","rank":2969},{"text":"couchancy skiings","rank":2821},{"text":"couchancy nonearning","rank":2723}]
+
+Completed cycle 147; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3575538
+Memory usage: 1724
+Search ranking count: 998613
+Last autocomplete query: tni
+Last result: []
+
+Completed cycle 148; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3717511
+Memory usage: 1728
+Search ranking count: 999690
+Last autocomplete query: fid
+Last result: [{"text":"artemisium fiddlehead paulianist","rank":10},{"text":"fiddlehead","rank":4},{"text":"coner feldsparphyre fiddlehead","rank":3},{"text":"entwist fidicinales","rank":3},{"text":"fidicinales soffritto","rank":3}]
+
+Completed cycle 149; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3498705
+Memory usage: 1731
+Search ranking count: 1000735
+Last autocomplete query: anaero
+Last result: [{"text":"anaerobiotic","rank":65740},{"text":"anaerobiotic podophyllic","rank":4298},{"text":"anaerobiotic skiings","rank":3854},{"text":"anaerobiotic nonearning","rank":3734},{"text":"anaerobiotic feldsparphyre","rank":3328}]
+
+Completed cycle 150; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3459245
+Memory usage: 1732
+Search ranking count: 1001821
+Last autocomplete query: pul
+Last result: [{"text":"pulsejets","rank":69102},{"text":"podophyllic pulsejets","rank":4191},{"text":"pulsejets skiings","rank":3864},{"text":"feldsparphyre pulsejets","rank":3686},{"text":"nonearning pulsejets","rank":3618}]
+
+Completed cycle 151; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3448934
+Memory usage: 1735
+Search ranking count: 1002853
+Last autocomplete query: nonpe
+Last result: [{"text":"nonperceptional","rank":83055},{"text":"nonperceptional skiings","rank":5143},{"text":"nonperceptional podophyllic","rank":5032},{"text":"nonearning nonperceptional","rank":4531},{"text":"nonperceptional positivity","rank":4352}]
+
+Completed cycle 152; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3319099
+Memory usage: 1736
+Search ranking count: 1003876
+Last autocomplete query: podop
+Last result: [{"text":"podophyllic","rank":160280},{"text":"podophyllic skiings","rank":9530},{"text":"nonearning podophyllic","rank":9252},{"text":"feldsparphyre podophyllic","rank":8431},{"text":"podophyllic positivity","rank":8412}]
+
+Completed cycle 153; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3515862
+Memory usage: 1740
+Search ranking count: 1004947
+Last autocomplete query: visi
+Last result: [{"text":"visions","rank":845},{"text":"feldsparphyre visions","rank":76},{"text":"diffractiveness visions","rank":55},{"text":"endocardial visions","rank":55},{"text":"nonearning visions","rank":51}]
+
+Completed cycle 154; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3486352
+Memory usage: 1743
+Search ranking count: 1006030
+Last autocomplete query: unse
+Last result: [{"text":"unserene","rank":62477},{"text":"unseals","rank":13372},{"text":"podophyllic unserene","rank":3533},{"text":"nonearning unserene","rank":3522},{"text":"skiings unserene","rank":3428}]
+
+Completed cycle 155; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3458586
+Memory usage: 1743
+Search ranking count: 1007094
+Last autocomplete query: bitar
+Last result: [{"text":"bitartrate","rank":32779},{"text":"bitartrate skiings","rank":2013},{"text":"bitartrate podophyllic","rank":1954},{"text":"bitartrate nonearning","rank":1940},{"text":"bitartrate positivity","rank":1843}]
+
+Completed cycle 156; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3350918
+Memory usage: 1748
+Search ranking count: 1008126
+Last autocomplete query: bitartr
+Last result: [{"text":"bitartrate","rank":32840},{"text":"bitartrate skiings","rank":2013},{"text":"bitartrate podophyllic","rank":1957},{"text":"bitartrate nonearning","rank":1944},{"text":"bitartrate positivity","rank":1844}]
+
+Completed cycle 157; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3340460
+Memory usage: 1751
+Search ranking count: 1009183
+Last autocomplete query: extra
+Last result: [{"text":"extravasating","rank":23467},{"text":"extraterrestrial","rank":7875},{"text":"extravasating skiings","rank":1473},{"text":"extravasating podophyllic","rank":1466},{"text":"extravasating nonearning","rank":1272}]
+
+Completed cycle 158; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3497407
+Memory usage: 1752
+Search ranking count: 1010282
+Last autocomplete query: pul
+Last result: [{"text":"pulsejets","rank":69921},{"text":"podophyllic pulsejets","rank":4255},{"text":"pulsejets skiings","rank":3896},{"text":"feldsparphyre pulsejets","rank":3717},{"text":"nonearning pulsejets","rank":3692}]
+
+Completed cycle 159; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3331525
+Memory usage: 1756
+Search ranking count: 1011322
+Last autocomplete query: nightcr
+Last result: [{"text":"nightcrawler","rank":869},{"text":"nightcrawler skiings","rank":65},{"text":"landscapes nightcrawler","rank":56},{"text":"endocardial nightcrawler","rank":48},{"text":"diffractiveness nightcrawler","rank":47}]
+
+Completed cycle 160; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3514548
+Memory usage: 1759
+Search ranking count: 1012375
+Last autocomplete query: nat
+Last result: [{"text":"naturally","rank":6546},{"text":"naturally nonearning","rank":465},{"text":"naturally skiings","rank":464},{"text":"naturally podophyllic","rank":426},{"text":"naturally positivity","rank":358}]
+
+Completed cycle 161; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3282114
+Memory usage: 1760
+Search ranking count: 1013461
+Last autocomplete query: susrev
+Last result: []
+
+Completed cycle 162; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3444695
+Memory usage: 1763
+Search ranking count: 1014463
+Last autocomplete query: mop
+Last result: [{"text":"mopeier","rank":2376},{"text":"mopeier positivity","rank":147},{"text":"mopeier nonearning","rank":135},{"text":"mopeier podophyllic","rank":132},{"text":"mopeier skiings","rank":118}]
+
+Completed cycle 163; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3450603
+Memory usage: 1763
+Search ranking count: 1015451
+Last autocomplete query: wor
+Last result: [{"text":"wordably","rank":99107},{"text":"podophyllic wordably","rank":6117},{"text":"skiings wordably","rank":5622},{"text":"nonearning wordably","rank":5388},{"text":"feldsparphyre wordably","rank":5216}]
+
+Completed cycle 164; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3369416
+Memory usage: 1768
+Search ranking count: 1016504
+Last autocomplete query: encep
+Last result: [{"text":"encephalopsychesis","rank":27310},{"text":"encephalopsychesis skiings","rank":1624},{"text":"encephalopsychesis podophyllic","rank":1592},{"text":"encephalopsychesis nonearning","rank":1456},{"text":"encephalopsychesis oral","rank":1440}]
+
+Completed cycle 165; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3558685
+Memory usage: 1771
+Search ranking count: 1017521
+Last autocomplete query: nonearn
+Last result: [{"text":"nonearning","rank":148625},{"text":"nonearning podophyllic","rank":9406},{"text":"nonearning skiings","rank":8682},{"text":"nonearning positivity","rank":7557},{"text":"feldsparphyre nonearning","rank":7473}]
+
+Completed cycle 166; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3550526
+Memory usage: 1772
+Search ranking count: 1018567
+Last autocomplete query: rac
+Last result: [{"text":"rachet","rank":113},{"text":"corynocarpaceae rachet","rank":20},{"text":"encephalopsychesis ovenwares rachet","rank":12},{"text":"ovenwares rachet","rank":12},{"text":"brassiness rachet","rank":11}]
+
+Completed cycle 167; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3459980
+Memory usage: 1776
+Search ranking count: 1019614
+Last autocomplete query: paul
+Last result: [{"text":"paulianist","rank":41022},{"text":"paulianist podophyllic","rank":2691},{"text":"paulianist skiings","rank":2427},{"text":"feldsparphyre paulianist","rank":2246},{"text":"paulianist positivity","rank":2123}]
+
+Completed cycle 168; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3585240
+Memory usage: 1779
+Search ranking count: 1020668
+Last autocomplete query: dop
+Last result: [{"text":"dopamines severed","rank":2},{"text":"cacking dopamines","rank":1}]
+
+Completed cycle 169; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3231698
+Memory usage: 1780
+Search ranking count: 1021718
+Last autocomplete query: vor
+Last result: [{"text":"vorticel","rank":4808},{"text":"feldsparphyre vorticel","rank":326},{"text":"podophyllic vorticel","rank":288},{"text":"nonearning vorticel","rank":273},{"text":"ovenwares vorticel","rank":261}]
+
+Completed cycle 170; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3321892
+Memory usage: 1783
+Search ranking count: 1022743
+Last autocomplete query: doolf
+Last result: []
+
+Completed cycle 171; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3417427
+Memory usage: 1784
+Search ranking count: 1023756
+Last autocomplete query: thy
+Last result: [{"text":"thymotinic","rank":609},{"text":"skiings thymotinic","rank":62},{"text":"acetylize thymotinic","rank":29},{"text":"scytheman thymotinic","rank":28},{"text":"judicatories thymotinic","rank":27}]
+
+Completed cycle 172; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3509462
+Memory usage: 1788
+Search ranking count: 1024811
+Last autocomplete query: astrap
+Last result: [{"text":"astrapophobia","rank":82289},{"text":"astrapophobia skiings","rank":4934},{"text":"astrapophobia podophyllic","rank":4874},{"text":"astrapophobia nonearning","rank":4781},{"text":"astrapophobia feldsparphyre","rank":4178}]
+
+Completed cycle 173; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3487416
+Memory usage: 1791
+Search ranking count: 1025838
+Last autocomplete query: jung
+Last result: [{"text":"junglewards","rank":114280},{"text":"junglewards podophyllic","rank":7009},{"text":"junglewards skiings","rank":6910},{"text":"junglewards nonearning","rank":6302},{"text":"feldsparphyre junglewards","rank":5974}]
+
+Completed cycle 174; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3544856
+Memory usage: 1792
+Search ranking count: 1026942
+Last autocomplete query: anaer
+Last result: [{"text":"anaerobiotic","rank":68298},{"text":"anaerobiotic podophyllic","rank":4482},{"text":"anaerobiotic skiings","rank":4008},{"text":"anaerobiotic nonearning","rank":3854},{"text":"anaerobiotic feldsparphyre","rank":3466}]
+
+Completed cycle 175; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3876543
+Memory usage: 1796
+Search ranking count: 1027963
+Last autocomplete query: mann
+Last result: [{"text":"manners","rank":25196},{"text":"manners podophyllic","rank":1478},{"text":"manners skiings","rank":1385},{"text":"manners nonearning","rank":1329},{"text":"manners positivity","rank":1323}]
+
+Completed cycle 176; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3446751
+Memory usage: 1799
+Search ranking count: 1029039
+Last autocomplete query: pul
+Last result: [{"text":"pulsejets","rank":72020},{"text":"podophyllic pulsejets","rank":4381},{"text":"pulsejets skiings","rank":3978},{"text":"feldsparphyre pulsejets","rank":3831},{"text":"nonearning pulsejets","rank":3804}]
+
+Completed cycle 177; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3495834
+Memory usage: 1800
+Search ranking count: 1030047
+Last autocomplete query: ace
+Last result: [{"text":"acetylize","rank":40625},{"text":"acetylize podophyllic","rank":2506},{"text":"acetylize nonearning","rank":2314},{"text":"acetylize feldsparphyre","rank":2303},{"text":"acetylize skiings","rank":2226}]
+
+Completed cycle 178; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3411596
+Memory usage: 1803
+Search ranking count: 1031058
+Last autocomplete query: ship
+Last result: [{"text":"shippy","rank":19951},{"text":"podophyllic shippy","rank":1252},{"text":"shippy skiings","rank":1205},{"text":"positivity shippy","rank":1094},{"text":"feldsparphyre shippy","rank":1087}]
+
+Completed cycle 179; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3562024
+Memory usage: 1805
+Search ranking count: 1032074
+Last autocomplete query: end
+Last result: [{"text":"endocardial","rank":104877},{"text":"endocardial podophyllic","rank":6462},{"text":"endocardial skiings","rank":6125},{"text":"endocardial nonearning","rank":5868},{"text":"endocardial feldsparphyre","rank":5347}]
+
+Completed cycle 180; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3569431
+Memory usage: 1806
+Search ranking count: 1033121
+Last autocomplete query: dou
+Last result: [{"text":"doub","rank":36},{"text":"doub oral","rank":13},{"text":"doughmen","rank":13},{"text":"doubty paulianist","rank":11},{"text":"billtong cardiolith douzieme","rank":10}]
+
+Completed cycle 181; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3241344
+Memory usage: 1810
+Search ranking count: 1034138
+Last autocomplete query: scy
+Last result: [{"text":"scytheman","rank":46226},{"text":"podophyllic scytheman","rank":2786},{"text":"scytheman skiings","rank":2683},{"text":"feldsparphyre scytheman","rank":2562},{"text":"nonearning scytheman","rank":2557}]
+
+Completed cycle 182; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3452915
+Memory usage: 1812
+Search ranking count: 1035186
+Last autocomplete query: land
+Last result: [{"text":"landscapes","rank":120852},{"text":"landscapes podophyllic","rank":7454},{"text":"landscapes skiings","rank":7259},{"text":"landscapes nonearning","rank":6946},{"text":"feldsparphyre landscapes","rank":6304}]
+
+Completed cycle 183; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3538031
+Memory usage: 1816
+Search ranking count: 1036266
+Last autocomplete query: niiks
+Last result: []
+
+Completed cycle 184; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3418402
+Memory usage: 1819
+Search ranking count: 1037304
+Last autocomplete query: posi
+Last result: [{"text":"positivity","rank":139000},{"text":"podophyllic positivity","rank":8768},{"text":"positivity skiings","rank":7995},{"text":"nonearning positivity","rank":7726},{"text":"feldsparphyre positivity","rank":7462}]
+
+Completed cycle 185; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3484342
+Memory usage: 1820
+Search ranking count: 1038326
+Last autocomplete query: hyeto
+Last result: [{"text":"hyetography","rank":36651},{"text":"hyetography podophyllic","rank":2313},{"text":"hyetography skiings","rank":2154},{"text":"feldsparphyre hyetography","rank":2067},{"text":"hyetography nonearning","rank":2008}]
+
+Completed cycle 186; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3595240
+Memory usage: 1824
+Search ranking count: 1039365
+Last autocomplete query: fleabug
+Last result: [{"text":"fleabug","rank":7102},{"text":"fleabug podophyllic","rank":485},{"text":"fleabug skiings","rank":381},{"text":"fleabug nonearning","rank":359},{"text":"fleabug wordably","rank":348}]
+
+Completed cycle 187; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3357787
+Memory usage: 1827
+Search ranking count: 1040425
+Last autocomplete query: con
+Last result: [{"text":"concerts","rank":6126},{"text":"continuums","rank":5276},{"text":"coner","rank":5003},{"text":"consensually","rank":4257},{"text":"confidantes","rank":3906}]
+
+Completed cycle 188; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3419961
+Memory usage: 1827
+Search ranking count: 1041468
+Last autocomplete query: bil
+Last result: [{"text":"billtong","rank":94472},{"text":"billtong podophyllic","rank":5877},{"text":"billtong skiings","rank":5664},{"text":"billtong nonearning","rank":5121},{"text":"billtong feldsparphyre","rank":4955}]
+
+Completed cycle 189; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3442217
+Memory usage: 1829
+Search ranking count: 1042477
+Last autocomplete query: billto
+Last result: [{"text":"billtong","rank":94581},{"text":"billtong podophyllic","rank":5885},{"text":"billtong skiings","rank":5668},{"text":"billtong nonearning","rank":5134},{"text":"billtong feldsparphyre","rank":4964}]
+
+Completed cycle 190; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3530794
+Memory usage: 1830
+Search ranking count: 1043502
+Last autocomplete query: podop
+Last result: [{"text":"podophyllic","rank":169816},{"text":"podophyllic skiings","rank":10081},{"text":"nonearning podophyllic","rank":9778},{"text":"feldsparphyre podophyllic","rank":8958},{"text":"podophyllic positivity","rank":8825}]
+
+Completed cycle 191; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3527339
+Memory usage: 1836
+Search ranking count: 1044537
+Last autocomplete query: endoc
+Last result: [{"text":"endocardial","rank":106849},{"text":"endocardial podophyllic","rank":6573},{"text":"endocardial skiings","rank":6272},{"text":"endocardial nonearning","rank":5956},{"text":"endocardial feldsparphyre","rank":5425}]
+
+Completed cycle 192; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3420551
+Memory usage: 1839
+Search ranking count: 1045571
+Last autocomplete query: skii
+Last result: [{"text":"skiings","rank":161516},{"text":"podophyllic skiings","rank":10089},{"text":"nonearning skiings","rank":9069},{"text":"positivity skiings","rank":8084},{"text":"feldsparphyre skiings","rank":8046}]
+
+Completed cycle 193; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3488993
+Memory usage: 1840
+Search ranking count: 1046649
+Last autocomplete query: vol
+Last result: [{"text":"volumescope","rank":15451},{"text":"podophyllic volumescope","rank":952},{"text":"skiings volumescope","rank":849},{"text":"nonearning volumescope","rank":812},{"text":"positivity volumescope","rank":797}]
+
+Completed cycle 194; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3514622
+Memory usage: 1844
+Search ranking count: 1047696
+Last autocomplete query: ips
+Last result: []
+
+Completed cycle 195; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3547625
+Memory usage: 1847
+Search ranking count: 1048733
+Last autocomplete query: nic
+Last result: [{"text":"niceness","rank":2811},{"text":"niceness positivity","rank":217},{"text":"niceness podophyllic","rank":210},{"text":"niceness skiings","rank":146},{"text":"feldsparphyre niceness","rank":136}]
+
+Completed cycle 196; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3437204
+Memory usage: 1847
+Search ranking count: 1049711
+Last autocomplete query: ext
+Last result: [{"text":"extravasating","rank":24854},{"text":"extraterrestrial","rank":8412},{"text":"extravasating podophyllic","rank":1557},{"text":"extravasating skiings","rank":1547},{"text":"extravasating nonearning","rank":1370}]
+
+Completed cycle 197; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3508166
+Memory usage: 1851
+Search ranking count: 1050785
+Last autocomplete query: bus
+Last result: [{"text":"busyish","rank":11},{"text":"alice busyish thunar","rank":10},{"text":"bitartrate busyish subterraneous","rank":10},{"text":"busyish skiings","rank":10},{"text":"anaerobiotic busyish","rank":5}]
+
+Completed cycle 198; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3484582
+Memory usage: 1851
+Search ranking count: 1051790
+Last autocomplete query: pos
+Last result: [{"text":"positivity","rank":141914},{"text":"podophyllic positivity","rank":8932},{"text":"positivity skiings","rank":8140},{"text":"nonearning positivity","rank":7868},{"text":"feldsparphyre positivity","rank":7611}]
+
+Completed cycle 199; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3530912
+Memory usage: 1854
+Search ranking count: 1052744
+Last autocomplete query: trispas
+Last result: [{"text":"trispaston","rank":7106},{"text":"podophyllic trispaston","rank":486},{"text":"skiings trispaston","rank":430},{"text":"feldsparphyre trispaston","rank":376},{"text":"positivity trispaston","rank":367}]
+
+Completed cycle 200; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3300439
+Memory usage: 1858
+Search ranking count: 1053738
+Last autocomplete query: nuj
+Last result: []
+
+Completed cycle 201; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.4237841
+Memory usage: 1866
+Search ranking count: 1054760
+Last autocomplete query: cou
+Last result: [{"text":"couchancy","rank":51003},{"text":"councillary","rank":29553},{"text":"couchancy podophyllic","rank":3253},{"text":"couchancy skiings","rank":3066},{"text":"couchancy nonearning","rank":2947}]
+
+Completed cycle 202; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.6109431
+Memory usage: 1869
+Search ranking count: 1055724
+Last autocomplete query: pod
+Last result: [{"text":"podophyllic","rank":172819},{"text":"podophyllic skiings","rank":10257},{"text":"nonearning podophyllic","rank":9929},{"text":"feldsparphyre podophyllic","rank":9130},{"text":"podophyllic positivity","rank":8971}]
+
+Completed cycle 203; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.6815240
+Memory usage: 1872
+Search ranking count: 1056728
+Last autocomplete query: pappe
+Last result: [{"text":"pappenheimer","rank":44},{"text":"pappenheimer skiings","rank":14},{"text":"athanasian pappenheimer vaagmer","rank":10},{"text":"couchancy pappenheimer thatchwork","rank":10},{"text":"endocardial metapleuron pappenheimer","rank":10}]
+
+Completed cycle 204; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.6374087
+Memory usage: 1873
+Search ranking count: 1057724
+Last autocomplete query: tyr
+Last result: [{"text":"tyrolite","rank":91813},{"text":"podophyllic tyrolite","rank":5690},{"text":"skiings tyrolite","rank":5226},{"text":"nonearning tyrolite","rank":5207},{"text":"positivity tyrolite","rank":4983}]
+
+Completed cycle 205; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.6348890
+Memory usage: 1876
+Search ranking count: 1058746
+Last autocomplete query: ryt
+Last result: []
+
+Completed cycle 206; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3877837
+Memory usage: 1860
+Search ranking count: 1059815
+Last autocomplete query: liv
+Last result: [{"text":"livetrap","rank":12900},{"text":"livetrap podophyllic","rank":824},{"text":"livetrap skiings","rank":731},{"text":"livetrap positivity","rank":714},{"text":"feldsparphyre livetrap","rank":691}]
+
+Completed cycle 207; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3342325
+Memory usage: 1860
+Search ranking count: 1060867
+Last autocomplete query: ell
+Last result: [{"text":"elliptoid","rank":26254},{"text":"elliptoid podophyllic","rank":1732},{"text":"elliptoid nonearning","rank":1523},{"text":"elliptoid skiings","rank":1475},{"text":"elliptoid positivity","rank":1447}]
+
+Completed cycle 208; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3593277
+Memory usage: 1860
+Search ranking count: 1061865
+Last autocomplete query: awnevo
+Last result: []
+
+Completed cycle 209; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3471209
+Memory usage: 1860
+Search ranking count: 1062829
+Last autocomplete query: unp
+Last result: [{"text":"unprop","rank":10667},{"text":"unpassably","rank":1586},{"text":"podophyllic unprop","rank":686},{"text":"skiings unprop","rank":680},{"text":"oral unprop","rank":596}]
+
+Completed cycle 210; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3467867
+Memory usage: 1860
+Search ranking count: 1063843
+Last autocomplete query: sev
+Last result: [{"text":"severed","rank":39339},{"text":"podophyllic severed","rank":2463},{"text":"severed skiings","rank":2413},{"text":"feldsparphyre severed","rank":2153},{"text":"positivity severed","rank":2100}]
+
+Completed cycle 211; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3448494
+Memory usage: 1860
+Search ranking count: 1064884
+Last autocomplete query: tyro
+Last result: [{"text":"tyrolite","rank":92779},{"text":"podophyllic tyrolite","rank":5756},{"text":"skiings tyrolite","rank":5287},{"text":"nonearning tyrolite","rank":5242},{"text":"positivity tyrolite","rank":5033}]
+
+Completed cycle 212; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3628432
+Memory usage: 1860
+Search ranking count: 1065891
+Last autocomplete query: tni
+Last result: []
+
+Completed cycle 213; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3512974
+Memory usage: 1860
+Search ranking count: 1066920
+Last autocomplete query: natu
+Last result: [{"text":"naturally","rank":6995},{"text":"naturally nonearning","rank":490},{"text":"naturally podophyllic","rank":490},{"text":"naturally skiings","rank":477},{"text":"naturally positivity","rank":371}]
+
+Completed cycle 214; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3416226
+Memory usage: 1860
+Search ranking count: 1067938
+Last autocomplete query: mya
+Last result: [{"text":"myatonic","rank":987},{"text":"myatonic nonearning","rank":66},{"text":"feldsparphyre myatonic","rank":62},{"text":"landscapes myatonic","rank":62},{"text":"myatonic versus","rank":57}]
+
+Completed cycle 215; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3530483
+Memory usage: 1860
+Search ranking count: 1068939
+Last autocomplete query: nonsti
+Last result: [{"text":"nonstimulable","rank":17655},{"text":"nonstimulable podophyllic","rank":1163},{"text":"nonstimulable skiings","rank":1063},{"text":"feldsparphyre nonstimulable","rank":979},{"text":"nonstimulable positivity","rank":897}]
+
+Completed cycle 216; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3606517
+Memory usage: 1860
+Search ranking count: 1069948
+Last autocomplete query: artxe
+Last result: []
+
+Completed cycle 217; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3676828
+Memory usage: 1860
+Search ranking count: 1070985
+Last autocomplete query: diff
+Last result: [{"text":"diffractiveness","rank":116023},{"text":"diffractiveness podophyllic","rank":7083},{"text":"diffractiveness nonearning","rank":6664},{"text":"diffractiveness skiings","rank":6464},{"text":"diffractiveness feldsparphyre","rank":5983}]
+
+Completed cycle 218; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3552975
+Memory usage: 1860
+Search ranking count: 1072012
+Last autocomplete query: dyce
+Last result: [{"text":"dyce","rank":65971},{"text":"dyce podophyllic","rank":4137},{"text":"dyce skiings","rank":4016},{"text":"dyce nonearning","rank":3572},{"text":"dyce positivity","rank":3442}]
+
+Completed cycle 219; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3537140
+Memory usage: 1860
+Search ranking count: 1073017
+Last autocomplete query: ahk
+Last result: []
+
+Completed cycle 220; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3454309
+Memory usage: 1861
+Search ranking count: 1073995
+Last autocomplete query: billton
+Last result: [{"text":"billtong","rank":99072},{"text":"billtong podophyllic","rank":6128},{"text":"billtong skiings","rank":5928},{"text":"billtong nonearning","rank":5402},{"text":"billtong feldsparphyre","rank":5211}]
+
+Completed cycle 221; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3416265
+Memory usage: 1861
+Search ranking count: 1075011
+Last autocomplete query: ver
+Last result: [{"text":"versus","rank":82186},{"text":"podophyllic versus","rank":4957},{"text":"skiings versus","rank":4798},{"text":"nonearning versus","rank":4364},{"text":"feldsparphyre versus","rank":4230}]
+
+Completed cycle 222; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3698843
+Memory usage: 1861
+Search ranking count: 1075991
+Last autocomplete query: glo
+Last result: [{"text":"globins","rank":60609},{"text":"globins podophyllic","rank":3592},{"text":"globins skiings","rank":3456},{"text":"feldsparphyre globins","rank":3181},{"text":"globins nonearning","rank":3140}]
+
+Completed cycle 223; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3560576
+Memory usage: 1861
+Search ranking count: 1076985
+Last autocomplete query: pos
+Last result: [{"text":"positivity","rank":146889},{"text":"podophyllic positivity","rank":9232},{"text":"positivity skiings","rank":8441},{"text":"nonearning positivity","rank":8141},{"text":"feldsparphyre positivity","rank":7870}]
+
+Completed cycle 224; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3635229
+Memory usage: 1862
+Search ranking count: 1078030
+Last autocomplete query: enc
+Last result: [{"text":"encephalopsychesis","rank":29825},{"text":"encephalopsychesis skiings","rank":1758},{"text":"encephalopsychesis podophyllic","rank":1737},{"text":"encephalopsychesis oral","rank":1569},{"text":"encephalopsychesis nonearning","rank":1563}]
+
+Completed cycle 225; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3500023
+Memory usage: 1864
+Search ranking count: 1079070
+Last autocomplete query: ediam
+Last result: []
+
+Completed cycle 226; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3576006
+Memory usage: 1864
+Search ranking count: 1080077
+Last autocomplete query: pho
+Last result: [{"text":"photometry","rank":47308},{"text":"phototherapeutics","rank":5601},{"text":"photometry podophyllic","rank":2874},{"text":"photometry skiings","rank":2695},{"text":"nonearning photometry","rank":2656}]
+
+Completed cycle 227; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3531485
+Memory usage: 1864
+Search ranking count: 1081115
+Last autocomplete query: tyro
+Last result: [{"text":"tyrolite","rank":94908},{"text":"podophyllic tyrolite","rank":5849},{"text":"skiings tyrolite","rank":5403},{"text":"nonearning tyrolite","rank":5359},{"text":"positivity tyrolite","rank":5122}]
+
+Completed cycle 228; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3607411
+Memory usage: 1864
+Search ranking count: 1082107
+Last autocomplete query: fid
+Last result: [{"text":"artemisium fiddlehead paulianist","rank":10},{"text":"fiddlehead","rank":6},{"text":"coner feldsparphyre fiddlehead","rank":3},{"text":"entwist fidicinales","rank":3},{"text":"fidicinales soffritto","rank":3}]
+
+Completed cycle 229; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3470613
+Memory usage: 1865
+Search ranking count: 1083089
+Last autocomplete query: nuoc
+Last result: []
+
+Completed cycle 230; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3569351
+Memory usage: 1868
+Search ranking count: 1084086
+Last autocomplete query: ycs
+Last result: []
+
+Completed cycle 231; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3307002
+Memory usage: 1869
+Search ranking count: 1085075
+Last autocomplete query: ido
+Last result: [{"text":"idol","rank":80487},{"text":"idol podophyllic","rank":5091},{"text":"idol skiings","rank":4943},{"text":"feldsparphyre idol","rank":4314},{"text":"idol nonearning","rank":4104}]
+
+Completed cycle 232; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3405874
+Memory usage: 1871
+Search ranking count: 1086055
+Last autocomplete query: lef
+Last result: [{"text":"left nonstimulable positivity","rank":2},{"text":"leftist lenticulare palaeonemertea","rank":1}]
+
+Completed cycle 233; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3491632
+Memory usage: 1874
+Search ranking count: 1087028
+Last autocomplete query: man
+Last result: [{"text":"manners","rank":27194},{"text":"manteaus","rank":18940},{"text":"manners podophyllic","rank":1646},{"text":"manners skiings","rank":1492},{"text":"manners nonearning","rank":1427}]
+
+Completed cycle 234; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3520927
+Memory usage: 1874
+Search ranking count: 1088078
+Last autocomplete query: odop
+Last result: []
+
+Completed cycle 235; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3452280
+Memory usage: 1876
+Search ranking count: 1089055
+Last autocomplete query: pul
+Last result: [{"text":"pulsejets","rank":77982},{"text":"podophyllic pulsejets","rank":4709},{"text":"pulsejets skiings","rank":4278},{"text":"nonearning pulsejets","rank":4150},{"text":"feldsparphyre pulsejets","rank":4099}]
+
+Completed cycle 236; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3716669
+Memory usage: 1877
+Search ranking count: 1090113
+Last autocomplete query: idol
+Last result: [{"text":"idol","rank":81156},{"text":"idol podophyllic","rank":5132},{"text":"idol skiings","rank":4985},{"text":"feldsparphyre idol","rank":4346},{"text":"idol nonearning","rank":4135}]
+
+Completed cycle 237; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3638117
+Memory usage: 1881
+Search ranking count: 1091128
+Last autocomplete query: ora
+Last result: [{"text":"oral","rank":143307},{"text":"oral podophyllic","rank":9062},{"text":"oral skiings","rank":8353},{"text":"nonearning oral","rank":7939},{"text":"feldsparphyre oral","rank":7720}]
+
+Completed cycle 238; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3675470
+Memory usage: 1883
+Search ranking count: 1092167
+Last autocomplete query: ski
+Last result: [{"text":"skiings","rank":172063},{"text":"podophyllic skiings","rank":10853},{"text":"nonearning skiings","rank":9709},{"text":"positivity skiings","rank":8580},{"text":"feldsparphyre skiings","rank":8577}]
+
+Completed cycle 239; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3632111
+Memory usage: 1886
+Search ranking count: 1093169
+Last autocomplete query: ido
+Last result: [{"text":"idol","rank":81570},{"text":"idol podophyllic","rank":5140},{"text":"idol skiings","rank":4996},{"text":"feldsparphyre idol","rank":4367},{"text":"idol nonearning","rank":4157}]
+
+Completed cycle 240; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3333606
+Memory usage: 1887
+Search ranking count: 1094190
+Last autocomplete query: none
+Last result: [{"text":"nonearning","rank":165291},{"text":"nonearning podophyllic","rank":10320},{"text":"nonearning skiings","rank":9754},{"text":"feldsparphyre nonearning","rank":8439},{"text":"nonearning positivity","rank":8293}]
+
+Completed cycle 241; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3485407
+Memory usage: 1890
+Search ranking count: 1095206
+Last autocomplete query: feld
+Last result: [{"text":"feldsparphyre","rank":157343},{"text":"feldsparphyre podophyllic","rank":9744},{"text":"feldsparphyre skiings","rank":8621},{"text":"feldsparphyre nonearning","rank":8460},{"text":"feldsparphyre positivity","rank":8044}]
+
+Completed cycle 242; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3518574
+Memory usage: 1891
+Search ranking count: 1096297
+Last autocomplete query: liar
+Last result: []
+
+Completed cycle 243; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3437638
+Memory usage: 1894
+Search ranking count: 1097294
+Last autocomplete query: nonea
+Last result: [{"text":"nonearning","rank":165887},{"text":"nonearning podophyllic","rank":10345},{"text":"nonearning skiings","rank":9816},{"text":"feldsparphyre nonearning","rank":8487},{"text":"nonearning positivity","rank":8310}]
+
+Completed cycle 244; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3354088
+Memory usage: 1895
+Search ranking count: 1098325
+Last autocomplete query: ste
+Last result: [{"text":"stemple","rank":14443},{"text":"stereotyped","rank":4161},{"text":"stereophotomicrography","rank":3109},{"text":"podophyllic stemple","rank":959},{"text":"nonearning stemple","rank":834}]
+
+Completed cycle 245; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3345301
+Memory usage: 1898
+Search ranking count: 1099316
+Last autocomplete query: non
+Last result: [{"text":"nonearning","rank":166326},{"text":"nonperceptional","rank":94712},{"text":"nonrepresentationalism","rank":56324},{"text":"nonhabitable","rank":43754},{"text":"nonstimulable","rank":18320}]
+
+Completed cycle 246; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3467371
+Memory usage: 1899
+Search ranking count: 1100346
+Last autocomplete query: sever
+Last result: [{"text":"severed","rank":41356},{"text":"severed skiings","rank":2544},{"text":"podophyllic severed","rank":2530},{"text":"feldsparphyre severed","rank":2267},{"text":"positivity severed","rank":2222}]
+
+Completed cycle 247; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3839602
+Memory usage: 1902
+Search ranking count: 1101309
+Last autocomplete query: mec
+Last result: [{"text":"mechanicalness","rank":8816},{"text":"mechanicalness skiings","rank":614},{"text":"mechanicalness positivity","rank":508},{"text":"mechanicalness podophyllic","rank":478},{"text":"mechanicalness oral","rank":470}]
+
+Completed cycle 248; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3470646
+Memory usage: 1903
+Search ranking count: 1102314
+Last autocomplete query: sub
+Last result: [{"text":"subterraneous","rank":73376},{"text":"podophyllic subterraneous","rank":4529},{"text":"skiings subterraneous","rank":4141},{"text":"nonearning subterraneous","rank":3967},{"text":"positivity subterraneous","rank":3799}]
+
+Completed cycle 249; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3449100
+Memory usage: 1906
+Search ranking count: 1103317
+Last autocomplete query: oven
+Last result: [{"text":"ovenwares","rank":137910},{"text":"ovenwares podophyllic","rank":8497},{"text":"ovenwares skiings","rank":8296},{"text":"nonearning ovenwares","rank":7593},{"text":"feldsparphyre ovenwares","rank":7274}]
+
+Completed cycle 250; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3524148
+Memory usage: 1906
+Search ranking count: 1104282
+Last autocomplete query: ireterp
+Last result: []
+
+Completed cycle 251; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3597924
+Memory usage: 1908
+Search ranking count: 1105251
+Last autocomplete query: sever
+Last result: [{"text":"severed","rank":41585},{"text":"podophyllic severed","rank":2576},{"text":"severed skiings","rank":2575},{"text":"feldsparphyre severed","rank":2271},{"text":"positivity severed","rank":2236}]
+
+Completed cycle 252; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3529555
+Memory usage: 1909
+Search ranking count: 1106277
+Last autocomplete query: pulsej
+Last result: [{"text":"pulsejets","rank":79745},{"text":"podophyllic pulsejets","rank":4827},{"text":"pulsejets skiings","rank":4382},{"text":"nonearning pulsejets","rank":4246},{"text":"feldsparphyre pulsejets","rank":4156}]
+
+Completed cycle 253; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3537386
+Memory usage: 1913
+Search ranking count: 1107271
+Last autocomplete query: lyteca
+Last result: []
+
+Completed cycle 254; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3609036
+Memory usage: 1915
+Search ranking count: 1108272
+Last autocomplete query: uoc
+Last result: []
+
+Completed cycle 255; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3375496
+Memory usage: 1918
+Search ranking count: 1109243
+Last autocomplete query: beri
+Last result: [{"text":"beribanded","rank":45901},{"text":"beribanded skiings","rank":2873},{"text":"beribanded podophyllic","rank":2737},{"text":"beribanded feldsparphyre","rank":2549},{"text":"beribanded nonearning","rank":2490}]
+
+Completed cycle 256; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3382396
+Memory usage: 1919
+Search ranking count: 1110192
+Last autocomplete query: nonr
+Last result: [{"text":"nonrepresentationalism","rank":57078},{"text":"nonrepresentationalism podophyllic","rank":3447},{"text":"nonrepresentationalism skiings","rank":3163},{"text":"nonearning nonrepresentationalism","rank":3124},{"text":"feldsparphyre nonrepresentationalism","rank":3053}]
+
+Completed cycle 257; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3461562
+Memory usage: 1922
+Search ranking count: 1111167
+Last autocomplete query: sub
+Last result: [{"text":"subterraneous","rank":74234},{"text":"podophyllic subterraneous","rank":4581},{"text":"skiings subterraneous","rank":4208},{"text":"nonearning subterraneous","rank":3999},{"text":"positivity subterraneous","rank":3817}]
+
+Completed cycle 258; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3558860
+Memory usage: 1923
+Search ranking count: 1112154
+Last autocomplete query: couch
+Last result: [{"text":"couchancy","rank":54870},{"text":"couchancy podophyllic","rank":3492},{"text":"couchancy skiings","rank":3323},{"text":"couchancy nonearning","rank":3154},{"text":"couchancy feldsparphyre","rank":2954}]
+
+Completed cycle 259; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3352001
+Memory usage: 1926
+Search ranking count: 1113139
+Last autocomplete query: olf
+Last result: []
+
+Completed cycle 260; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3472686
+Memory usage: 1926
+Search ranking count: 1114154
+Last autocomplete query: dif
+Last result: [{"text":"diffractiveness","rank":123091},{"text":"diffractiveness podophyllic","rank":7507},{"text":"diffractiveness nonearning","rank":7027},{"text":"diffractiveness skiings","rank":6926},{"text":"diffractiveness positivity","rank":6311}]
+
+Completed cycle 261; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3514295
+Memory usage: 1928
+Search ranking count: 1115120
+Last autocomplete query: idol
+Last result: [{"text":"idol","rank":84034},{"text":"idol podophyllic","rank":5306},{"text":"idol skiings","rank":5154},{"text":"feldsparphyre idol","rank":4475},{"text":"idol nonearning","rank":4283}]
+
+Completed cycle 262; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3612974
+Memory usage: 1929
+Search ranking count: 1116105
+Last autocomplete query: skiin
+Last result: [{"text":"skiings","rank":177685},{"text":"podophyllic skiings","rank":11117},{"text":"nonearning skiings","rank":10066},{"text":"feldsparphyre skiings","rank":8838},{"text":"positivity skiings","rank":8817}]
+
+Completed cycle 263; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3771002
+Memory usage: 1933
+Search ranking count: 1117085
+Last autocomplete query: tyro
+Last result: [{"text":"tyrolite","rank":99735},{"text":"podophyllic tyrolite","rank":6138},{"text":"skiings tyrolite","rank":5686},{"text":"nonearning tyrolite","rank":5611},{"text":"feldsparphyre tyrolite","rank":5374}]
+
+Completed cycle 264; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3934335
+Memory usage: 1935
+Search ranking count: 1118098
+Last autocomplete query: fid
+Last result: [{"text":"artemisium fiddlehead paulianist","rank":10},{"text":"fiddlehead","rank":6},{"text":"coner feldsparphyre fiddlehead","rank":3},{"text":"entwist fidicinales","rank":3},{"text":"fidicinales soffritto","rank":3}]
+
+Completed cycle 265; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3881969
+Memory usage: 1938
+Search ranking count: 1119066
+Last autocomplete query: ast
+Last result: [{"text":"astrapophobia","rank":94003},{"text":"astrapophobia skiings","rank":5606},{"text":"astrapophobia podophyllic","rank":5596},{"text":"astrapophobia nonearning","rank":5422},{"text":"astrapophobia feldsparphyre","rank":4808}]
+
+Completed cycle 266; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3530359
+Memory usage: 1939
+Search ranking count: 1120017
+Last autocomplete query: feldspa
+Last result: [{"text":"feldsparphyre","rank":162424},{"text":"feldsparphyre podophyllic","rank":10085},{"text":"feldsparphyre skiings","rank":8902},{"text":"feldsparphyre nonearning","rank":8806},{"text":"feldsparphyre positivity","rank":8277}]
+
+Completed cycle 267; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3626517
+Memory usage: 1942
+Search ranking count: 1120960
+Last autocomplete query: posit
+Last result: [{"text":"positivity","rank":156191},{"text":"podophyllic positivity","rank":9745},{"text":"positivity skiings","rank":8887},{"text":"nonearning positivity","rank":8522},{"text":"feldsparphyre positivity","rank":8285}]
+
+Completed cycle 268; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3471768
+Memory usage: 1943
+Search ranking count: 1121962
+Last autocomplete query: hye
+Last result: [{"text":"hyetography","rank":41017},{"text":"hyetography podophyllic","rank":2545},{"text":"hyetography skiings","rank":2421},{"text":"feldsparphyre hyetography","rank":2302},{"text":"hyetography nonearning","rank":2233}]
+
+Completed cycle 269; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3506982
+Memory usage: 1946
+Search ranking count: 1122973
+Last autocomplete query: card
+Last result: [{"text":"cardiolith","rank":33537},{"text":"cardiolith podophyllic","rank":2130},{"text":"cardiolith skiings","rank":2026},{"text":"cardiolith feldsparphyre","rank":1929},{"text":"cardiolith nonearning","rank":1811}]
+
+Completed cycle 270; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3588673
+Memory usage: 1947
+Search ranking count: 1123947
+Last autocomplete query: lodi
+Last result: []
+
+Completed cycle 271; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3512424
+Memory usage: 1950
+Search ranking count: 1124884
+Last autocomplete query: jun
+Last result: [{"text":"junglewards","rank":131076},{"text":"junglewards podophyllic","rank":8000},{"text":"junglewards skiings","rank":7908},{"text":"junglewards nonearning","rank":7221},{"text":"feldsparphyre junglewards","rank":6933}]
+
+Completed cycle 272; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3452943
+Memory usage: 1951
+Search ranking count: 1125833
+Last autocomplete query: rekrims
+Last result: []
+
+Completed cycle 273; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3222764
+Memory usage: 1954
+Search ranking count: 1126796
+Last autocomplete query: sup
+Last result: [{"text":"supposititiousness","rank":5823},{"text":"supplication","rank":2309},{"text":"supermechanical","rank":749},{"text":"skiings supposititiousness","rank":333},{"text":"nonearning supposititiousness","rank":312}]
+
+Completed cycle 274; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3577259
+Memory usage: 1955
+Search ranking count: 1127833
+Last autocomplete query: jung
+Last result: [{"text":"junglewards","rank":131476},{"text":"junglewards podophyllic","rank":8028},{"text":"junglewards skiings","rank":7930},{"text":"junglewards nonearning","rank":7259},{"text":"feldsparphyre junglewards","rank":6954}]
+
+Completed cycle 275; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3535055
+Memory usage: 1958
+Search ranking count: 1128830
+Last autocomplete query: lan
+Last result: [{"text":"landscapes","rank":137369},{"text":"landscapes podophyllic","rank":8463},{"text":"landscapes skiings","rank":8327},{"text":"landscapes nonearning","rank":7910},{"text":"feldsparphyre landscapes","rank":7137}]
+
+Completed cycle 276; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3212944
+Memory usage: 1959
+Search ranking count: 1129796
+Last autocomplete query: pleu
+Last result: [{"text":"pleurisies","rank":1450},{"text":"pleurisies podophyllic","rank":103},{"text":"junglewards pleurisies","rank":89},{"text":"pleurisies positivity","rank":88},{"text":"ovenwares pleurisies","rank":71}]
+
+Completed cycle 277; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3539853
+Memory usage: 1962
+Search ranking count: 1130779
+Last autocomplete query: sev
+Last result: [{"text":"severed","rank":42922},{"text":"podophyllic severed","rank":2657},{"text":"severed skiings","rank":2651},{"text":"feldsparphyre severed","rank":2340},{"text":"positivity severed","rank":2313}]
+
+Completed cycle 278; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3380226
+Memory usage: 1963
+Search ranking count: 1131784
+Last autocomplete query: fune
+Last result: [{"text":"funebrious","rank":29875},{"text":"funebrious podophyllic","rank":1759},{"text":"funebrious nonearning","rank":1645},{"text":"funebrious skiings","rank":1612},{"text":"feldsparphyre funebrious","rank":1474}]
+
+Completed cycle 279; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3270079
+Memory usage: 1966
+Search ranking count: 1132751
+Last autocomplete query: inc
+Last result: [{"text":"incorrectness","rank":14349},{"text":"incorrectness skiings","rank":957},{"text":"incorrectness podophyllic","rank":840},{"text":"incorrectness nonearning","rank":823},{"text":"incorrectness positivity","rank":755}]
+
+Completed cycle 280; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.4161719
+Memory usage: 1967
+Search ranking count: 1133737
+Last autocomplete query: incor
+Last result: [{"text":"incorrectness","rank":14355},{"text":"incorrectness skiings","rank":960},{"text":"incorrectness podophyllic","rank":841},{"text":"incorrectness nonearning","rank":826},{"text":"incorrectness positivity","rank":765}]
+
+Completed cycle 281; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3622808
+Memory usage: 1970
+Search ranking count: 1134686
+Last autocomplete query: judicat
+Last result: [{"text":"judicatories","rank":66776},{"text":"judicatories podophyllic","rank":4281},{"text":"judicatories skiings","rank":3771},{"text":"feldsparphyre judicatories","rank":3485},{"text":"judicatories nonearning","rank":3482}]
+
+Completed cycle 282; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3483078
+Memory usage: 1971
+Search ranking count: 1135671
+Last autocomplete query: non
+Last result: [{"text":"nonearning","rank":174450},{"text":"nonperceptional","rank":99019},{"text":"nonrepresentationalism","rank":59092},{"text":"nonhabitable","rank":46039},{"text":"nonstimulable","rank":19176}]
+
+Completed cycle 283; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3680220
+Memory usage: 1974
+Search ranking count: 1136647
+Last autocomplete query: unlit
+Last result: [{"text":"unliturgical","rank":494},{"text":"podophyllic unliturgical","rank":58},{"text":"anaerobiotic unliturgical","rank":35},{"text":"diffractiveness unliturgical","rank":32},{"text":"skiings unliturgical","rank":32}]
+
+Completed cycle 284; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3471280
+Memory usage: 1975
+Search ranking count: 1137604
+Last autocomplete query: cou
+Last result: [{"text":"couchancy","rank":56647},{"text":"councillary","rank":33293},{"text":"couchancy podophyllic","rank":3570},{"text":"couchancy skiings","rank":3441},{"text":"couchancy nonearning","rank":3285}]
+
+Completed cycle 285; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3481645
+Memory usage: 1979
+Search ranking count: 1138579
+Last autocomplete query: enon
+Last result: []
+
+Completed cycle 286; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3367382
+Memory usage: 1982
+Search ranking count: 1139541
+Last autocomplete query: tha
+Last result: [{"text":"thatchwork","rank":10081},{"text":"podophyllic thatchwork","rank":646},{"text":"skiings thatchwork","rank":603},{"text":"nonearning thatchwork","rank":556},{"text":"positivity thatchwork","rank":545}]
+
+Completed cycle 287; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3451779
+Memory usage: 1983
+Search ranking count: 1140546
+Last autocomplete query: proseth
+Last result: [{"text":"prosethmoid","rank":10576},{"text":"prosethmoid skiings","rank":752},{"text":"nonearning prosethmoid","rank":638},{"text":"positivity prosethmoid","rank":633},{"text":"podophyllic prosethmoid","rank":575}]
+
+Completed cycle 288; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3555848
+Memory usage: 1986
+Search ranking count: 1141472
+Last autocomplete query: moc
+Last result: [{"text":"mocketer","rank":75},{"text":"mocketer nonearning","rank":14},{"text":"mocketer skiings","rank":14},{"text":"bronzitite mocketer","rank":10},{"text":"cariama mocketer tyrolite","rank":10}]
+
+Completed cycle 289; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3608989
+Memory usage: 1986
+Search ranking count: 1142473
+Last autocomplete query: ora
+Last result: [{"text":"oral","rank":153294},{"text":"oral podophyllic","rank":9752},{"text":"oral skiings","rank":8976},{"text":"nonearning oral","rank":8609},{"text":"feldsparphyre oral","rank":8252}]
+
+Completed cycle 290; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3463713
+Memory usage: 1988
+Search ranking count: 1143456
+Last autocomplete query: sas
+Last result: [{"text":"sastruga","rank":330},{"text":"landscapes sastruga","rank":28},{"text":"sastruga versus","rank":24},{"text":"anaerobiotic sastruga","rank":18},{"text":"nonearning sastruga","rank":18}]
+
+Completed cycle 291; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3541086
+Memory usage: 1992
+Search ranking count: 1144454
+Last autocomplete query: cariam
+Last result: [{"text":"cariama","rank":41246},{"text":"cariama podophyllic","rank":2626},{"text":"cariama skiings","rank":2525},{"text":"cariama feldsparphyre","rank":2268},{"text":"cariama nonearning","rank":2127}]
+
+Completed cycle 292; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3797786
+Memory usage: 1994
+Search ranking count: 1145451
+Last autocomplete query: orc
+Last result: [{"text":"orchardist","rank":3047},{"text":"orcinols","rank":1069},{"text":"orchardist skiings","rank":245},{"text":"orchardist podophyllic","rank":201},{"text":"orchardist ovenwares","rank":168}]
+
+Completed cycle 293; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3444987
+Memory usage: 1998
+Search ranking count: 1146368
+Last autocomplete query: rec
+Last result: [{"text":"reclimbing","rank":1313},{"text":"rectischiac","rank":548},{"text":"reclimbing skiings","rank":152},{"text":"rectangulate","rank":103},{"text":"recliner","rank":101}]
+
+Completed cycle 294; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3546519
+Memory usage: 1999
+Search ranking count: 1147342
+Last autocomplete query: none
+Last result: [{"text":"nonearning","rank":177122},{"text":"nonearning podophyllic","rank":11005},{"text":"nonearning skiings","rank":10506},{"text":"feldsparphyre nonearning","rank":9138},{"text":"nonearning positivity","rank":8767}]
+
+Completed cycle 295; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3529262
+Memory usage: 2002
+Search ranking count: 1148357
+Last autocomplete query: pos
+Last result: [{"text":"positivity","rank":162014},{"text":"podophyllic positivity","rank":10051},{"text":"positivity skiings","rank":9238},{"text":"nonearning positivity","rank":8779},{"text":"feldsparphyre positivity","rank":8597}]
+
+Completed cycle 296; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3339883
+Memory usage: 2005
+Search ranking count: 1149299
+Last autocomplete query: tyr
+Last result: [{"text":"tyrolite","rank":104404},{"text":"podophyllic tyrolite","rank":6415},{"text":"skiings tyrolite","rank":5889},{"text":"nonearning tyrolite","rank":5806},{"text":"feldsparphyre tyrolite","rank":5596}]
+
+Completed cycle 297; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3522367
+Memory usage: 2005
+Search ranking count: 1150265
+Last autocomplete query: lan
+Last result: [{"text":"landscapes","rank":141189},{"text":"landscapes podophyllic","rank":8744},{"text":"landscapes skiings","rank":8632},{"text":"landscapes nonearning","rank":8167},{"text":"feldsparphyre landscapes","rank":7382}]
+
+Completed cycle 298; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3668654
+Memory usage: 2008
+Search ranking count: 1151232
+Last autocomplete query: cyd
+Last result: [{"text":"cyders","rank":22},{"text":"anaerobiotic cyders nonrepresentationalism","rank":10},{"text":"colorize cyders dyce","rank":10},{"text":"athanasian cyders","rank":3},{"text":"cariama cyders","rank":3}]
+
+Completed cycle 299; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3445472
+Memory usage: 2009
+Search ranking count: 1152257
+Last autocomplete query: cory
+Last result: [{"text":"corynocarpaceae","rank":27298},{"text":"corynocarpaceae skiings","rank":1768},{"text":"corynocarpaceae podophyllic","rank":1615},{"text":"corynocarpaceae nonearning","rank":1528},{"text":"corynocarpaceae positivity","rank":1522}]
+
+Completed cycle 300; upsert: 10000, lookup: 30000
+Cycle took: 00:00:00.3596101
+Memory usage: 2013
+Search ranking count: 1153197
+Last autocomplete query: uob
+Last result: []
+
