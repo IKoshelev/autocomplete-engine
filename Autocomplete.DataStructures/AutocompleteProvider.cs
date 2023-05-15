@@ -1,3 +1,4 @@
+using System;
 using System.Diagnostics.CodeAnalysis;
 using System.Runtime.InteropServices;
 using rm.Trie;
@@ -6,10 +7,16 @@ namespace Autocomplete.DataStructures;
 
 public class AutocompleteProvider
 {
+    public readonly bool IsSingleTrieMode;
     private readonly Dictionary<string, RankingMetadata> ExistingRankings = new();
     private readonly TrieMap<SortedSet<Ranking>> Trie3Letter = new();
     private readonly TrieMap<SortedSet<Ranking>> Trie4Letter = new();
     private readonly TrieMap<SortedSet<Ranking>> Trie5Letter = new();
+    
+    public AutocompleteProvider(bool isSingleTrieMode = false)
+    {
+        this.IsSingleTrieMode = isSingleTrieMode;
+    }
 
     public void UpsertRanking(
         string searchText,
@@ -31,7 +38,7 @@ public class AutocompleteProvider
         else
         {
             var oldRanking = rankingMetadata.Ranking;
-            var newRanking = oldRanking with { rank = oldRanking.rank + delta };
+            var newRanking = new Ranking(oldRanking, oldRanking.rank + delta);
             foreach (var set in rankingMetadata.Sets)
             {
                 // TODO find more upsert friendly sorted set
@@ -49,6 +56,11 @@ public class AutocompleteProvider
 
     public Ranking[] LookupAutocomplete(string query, int topNToGet = 5)
     {
+        if (IsSingleTrieMode)
+        {
+            throw new Exception();
+        }
+
         // we expect queries no less than 3 letters
         return query.Length switch
         {
@@ -58,7 +70,7 @@ public class AutocompleteProvider
             _ => Trie5Letter.ValueBy(
                     query.Substring(0, 5)
                 // we might want to store words withing ranking upfront?
-                )?.Where(x => x.text.Split(' ').Any(word => word.StartsWith(query)))
+                )?.Where(x => x.AnyWordStartsWith(query))
                 .Take(topNToGet).ToArray(),
         } ?? Array.Empty<Ranking>();
     }
@@ -71,34 +83,25 @@ public class AutocompleteProvider
         RankingMetadata rankingMetadata = new RankingMetadata(new Ranking(searchText, delta));
         ExistingRankings.Add(searchText, rankingMetadata);
 
-        var start = 0;
-        var end = 0;
-        var max = searchText.Length - 1;
-        while (end < max)
+        var words = rankingMetadata.Ranking.words3;
+        AddNewWordsToTries(words.word1, rankingMetadata);
+        if (words.word2.HasValue)
         {
-            end += 1;
-            if (searchText[end] == ' ')
-            {
-                AddNewWordsToTries(
-                    searchText.Substring(start, end - start),
-                    rankingMetadata);
-                start = end + 1;
-            }
-            else if (end == max)
-            {
-                AddNewWordsToTries(
-                    searchText.Substring(start, end - start + 1),
-                    rankingMetadata);
-            }
+            AddNewWordsToTries(words.word2.Value, rankingMetadata);
+        }
+        if (words.word3.HasValue)
+        {
+            AddNewWordsToTries(words.word3.Value, rankingMetadata);
         }
 
         return rankingMetadata;
     }
 
     private void AddNewWordsToTries(
-        string word,
+        ReadOnlyMemory<char> wordMem,
         RankingMetadata rankingMetadata)
     {
+        var word =  wordMem.Span;
         var len = word.Length;
         if (len <= 2)
         {
@@ -106,16 +109,21 @@ public class AutocompleteProvider
         }
         if (len >= 3)
         {
-            var key = word.Substring(0, 3);
+            var key = word.Slice(0, 3).ToString();
             AddKeyToTrieAndUpdateMetadata(
                 rankingMetadata,
                 key,
                 Trie3Letter);
         }
 
+        if (this.IsSingleTrieMode)
+        {
+            return;
+        }
+
         if (len >= 4)
         {
-            var key = word.Substring(0, 4);
+            var key = word.Slice(0, 4).ToString();
             AddKeyToTrieAndUpdateMetadata(
                 rankingMetadata,
                 key,
@@ -124,7 +132,7 @@ public class AutocompleteProvider
 
         if (len >= 5)
         {
-            var key = word.Substring(0, 5);
+            var key = word.Slice(0, 5).ToString();
             AddKeyToTrieAndUpdateMetadata(
                 rankingMetadata,
                 key,
@@ -160,8 +168,100 @@ public class AutocompleteProvider
     }
 }
 
-public record Ranking(string text, int rank)
+public record Words3(
+    ReadOnlyMemory<char> word1,
+    ReadOnlyMemory<char>? word2,
+    ReadOnlyMemory<char>? word3);
+
+public class Ranking
 {
+    public readonly string text;
+    public int rank;
+    public readonly Words3 words3;
+
+    // for JSON only
+    public string Text => this.text;
+    public int Rank => this.rank;
+
+    public Ranking(string text, int rank)
+    {
+        this.text = text;
+        this.rank = rank;
+        this.words3 = FindFist3Words(text.AsMemory());
+    }
+
+    public Ranking(Ranking existingRanking, int newRank)
+    {
+        this.text = existingRanking.text;
+        this.rank = newRank;
+        this.words3 = existingRanking.words3;
+    }
+
+    public bool AnyWordStartsWith(string query)
+    {
+        if (this.words3.word1.Span.StartsWith(query))
+        {
+            return true;
+        }
+
+        if (this.words3.word2 == null) 
+        {
+            return false;
+        }
+
+        if (this.words3.word2.Value.Span.StartsWith(query))
+        {
+            return true;
+        }
+        
+        return this.words3.word3?.Span.StartsWith(query) ?? false;
+    }
+
+    private static Words3 FindFist3Words(ReadOnlyMemory<char> textMem)
+    {
+        var text = textMem.Span;
+        var start = 0;
+        var end = 0;
+        var currentWord = 1;
+        ReadOnlyMemory<char>? word1 = null;
+        ReadOnlyMemory<char>? word2 = null;
+        ReadOnlyMemory<char>? word3 = null;
+        var max = text.Length - 1;
+
+        while (end < max)
+        {
+            end += 1;
+            ReadOnlyMemory<char>? word = null;
+            if (text[end] == ' ')
+            {
+                word = textMem.Slice(start, end - start);
+                start = end + 1;
+            }
+            else if (end == max)
+            {
+                word = textMem.Slice(start, end - start + 1);
+            }
+            if (word.HasValue)
+            {
+                if (currentWord == 1)
+                {
+                    word1 = word;
+                }
+                if (currentWord == 2)
+                {
+                    word2 = word;
+                }
+                if (currentWord == 3)
+                {
+                    word3 = word;
+                }
+
+                currentWord += 1;
+            }
+        }
+        return new Words3(word1.Value, word2, word3);
+    }
+
     public override int GetHashCode()
     {
         return text.GetHashCode();
