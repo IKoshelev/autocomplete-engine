@@ -61,6 +61,9 @@ internal class Program
 
         using var logFile = new FileStream(executionLogFile, FileMode.Create);
         using var logWriter = new StreamWriter(logFile);
+
+        logWriter.WriteLine($"Pre-populated with {preloadSearchesCount} searches, running normal loop\r\n\r\n");
+
         int cycle = 0;
         while (true)
         {
